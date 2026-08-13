@@ -1,98 +1,114 @@
-# Plan de proyecto - Chakana Art Car
+# Plan de proyecto - Chakana 2026/2027
 
-Versión: prefactibilidad v0.2 - agosto de 2026
+Versión: prefactibilidad v0.3 - agosto de 2026.
 
-## Objetivo
+## Estrategia de dos temporadas
 
-Construir un primer art car pequeño, transportable y de bajo riesgo que:
+### 2026 - Chakana estática de madera
 
-- se desplace a 5-8 km/h durante hasta 5 km por carga;
-- opere sobre pasto, rastrojo, tierra firme y barro superficial;
-- tenga un solo conductor sentado durante la marcha;
-- se convierta, detenido, en una fiesta con el DJ de pie dentro de una única fachada de chakana;
-- use un donor eléctrico local 2WD con eje trasero motriz;
-- mantenga un techo de inversión de USD 15.000.
+Construir una instalación a escala real, desmontable y sin ruedas para validar:
 
-El proyecto no incluye circulación por vía pública, pasajeros, DJ de pie en movimiento, barro profundo, pendientes fuertes ni homologación de un vehículo nuevo.
+- geometría y lectura visual de una única cara de chakana;
+- sistema de módulos, uniones, arriostramiento, nivelación y lastre;
+- tiempos y equipo necesario para montar/desmontar;
+- embalaje, volumen y transporte;
+- apertura central, mesa y ergonomía del DJ;
+- integración del PA, luces y energía del predio/generador externo;
+- exposición al viento, lluvia, polvo y uso público;
+- masa real que deberá transportar el vehículo futuro.
 
-## Estrategia de ejecución
+### 2027 - Conversión móvil metálica
 
-La secuencia protege el presupuesto: primero se prueba el vehículo desnudo y recién después se construye la escultura. Cada etapa termina con una decisión `GO / STOP`.
+Reutilizar la geometría validada y convertirla en una piel liviana metálica sobre una plataforma móvil 2WD. La selección entre donor local y eje importado se hace después del informe 2026.
 
-| Etapa | Duración orientativa | Resultado | Gate de salida |
+## Alcance 2026
+
+Incluye:
+
+- fachada de madera de aproximadamente 2,4-2,6 m de alto y 1,8-1,95 m de ancho;
+- estructura profunda autoportante y desmontable;
+- hueco central mínimo de 1,2 × 1,1 m;
+- mesa DJ de 1,2 × 0,6 m y 0,9-1,05 m de altura;
+- dos espacios de PA o PA exterior;
+- iluminación LED de baja tensión;
+- patas, bases, arriostramientos, lastre y protección de bordes;
+- procedimiento de montaje, checklist y bitácora.
+
+No incluye ruedas, eje, chasis vehicular, batería de tracción, cargador ni sistemas de conducción.
+
+## Plan 2026
+
+| Etapa | Duración | Resultado | Gate |
 |---|---:|---|---|
-| 0. Definición | 1 semana | Requisitos congelados, roles y techo de USD 15.000 | Alcance firmado; sin pasajeros; DJ sólo detenido |
-| 1. Búsqueda de donor | 2-4 semanas | Terna de carros de golf/utilitarios 48 V usados | Modelo, serie, capacidad, frenos, dirección y Tow/neutro verificados |
-| 2. Compra e inspección | 1 semana | Donor adquirido y pesado por eje | Donor + reparación inicial <= USD 4.950; 5 km cargado sin falla |
-| 3. Rolling prototype | 3-5 semanas | Rodaje, frenos, ruedas y recuperación terminados | Frena recto, retiene en pendiente, no roza y puede empujarse |
-| 4. Sistema de fiesta | 2-3 semanas | Generador, tablero AC, PA alquilado y mesa DJ | RCD probado; tracción inhibida; ensayo continuo de 4 h |
-| 5. Chakana liviana | 4-6 semanas | Una fachada escalonada modular y registros técnicos | Masa/CG aceptables, visión y ventilación libres, bordes seguros |
-| 6. Integración | 2 semanas | Vehículo completo cableado y documentado | Pesaje final, checklist, E-stop, iluminación 360 grados |
-| 7. Ensayo de aceptación | 1-2 semanas | SAT en terreno comparable al evento | 5 km, freno, pendiente, despliegue, audio y recuperación aprobados |
-| 8. Evento piloto | 1 evento | Operación real con bitácora | Sin incidentes y lista de correcciones cerrada |
+| 0. Requisitos y sitio | 1 semana | dimensiones, viento de diseño, suelo y medio de transporte | predio y límites documentados |
+| 1. Ingeniería de módulos | 2 semanas | planos de bastidores, uniones, bases y embalaje | revisión por profesional estructural |
+| 2. Mockup 1:1 del hueco DJ | 2-3 días | cartón/listón a escala real | ergonomía y visibilidad aprobadas |
+| 3. Módulo piloto | 1 semana | un escalón completo con acabado y LED | masa, rigidez y tiempo aceptables |
+| 4. Fabricación | 3-4 semanas | 5-7 módulos de madera identificados | inspección de uniones y bordes |
+| 5. Montaje en seco | 1 semana | instalación completa sin público | verticalidad, arriostramiento y lastre aprobados |
+| 6. Audio/iluminación | 1 semana | PA, cableado y mesa operativos | cuatro horas continuas sin falla |
+| 7. Ensayo público controlado | 1 evento | observaciones y datos reales | sin incidentes; backlog priorizado |
+| 8. Informe 2026 | 1 semana | masa, tiempos, daños, costos y requisitos 2027 | decisión donor/eje habilitada |
 
-Plazo orientativo total: 16-24 semanas, condicionado por disponibilidad del donor y trabajo voluntario.
+Plazo orientativo: 9-12 semanas.
 
-## Gates económicos
+## Presupuesto objetivo 2026
 
-| Gate | Límite | Regla |
-|---|---:|---|
-| G1 - Donor + puesta a punto | USD 4.950 | Si necesita banco completo de baterías o reconstrucción de transaxle, se rechaza |
-| G2 - Donor + rodaje/recuperación | USD 6.500 | No se recortan frenos, capacidad de neumáticos ni puntos de rescate |
-| G3 - Fiesta y seguridad eléctrica | USD 2.550 | PA alquilado; generador en tierra; RCD y extinción obligatorios |
-| G4 - Arte, fabricación y ensayos | USD 2.900 | Piel modular de 80-130 kg; sin cinética compleja |
-| G5 - Contingencia | USD 1.300 | Se mantiene sin comprometer hasta el ensayo final |
-| Total | USD 15.000 | Objetivo base USD 14.650; margen USD 350 |
+| Rubro | Base USD |
+|---|---:|
+| Madera estructural y fenólico exterior | 1.350 |
+| Herrajes, bulones, insertos y placas | 500 |
+| Bases, patas, arriostramiento y lastre | 650 |
+| Acabado exterior y protección al fuego/humedad | 450 |
+| Mesa DJ y cierre central | 300 |
+| LED, fuente SELV y cableado | 350 |
+| PA/generador: primer alquiler | 350 |
+| Consumibles y herramientas menores | 350 |
+| Transporte y prueba de montaje | 450 |
+| Revisión profesional y ensayos | 500 |
+| Contingencia | 650 |
+| **Total base 2026** | **5.900** |
 
-## Estructura del equipo
+El límite se controla en moneda local al momento de cada compra. Mano de obra mayormente voluntaria; trabajos especializados se cotizan aparte antes de comprometerlos.
 
-| Rol | Responsabilidad principal | Participación |
-|---|---|---|
-| Responsable de proyecto | alcance, presupuesto, gates y calendario | Todas las etapas |
-| Ingeniería mecánica | donor, bastidor, ruedas, frenos, dirección y recuperación | 1-7 |
-| Electricidad/electrónica | 48 V, E-stop, luces, 230 V, RCD y puesta a tierra | 2-7 |
-| Diseño industrial/artístico | fachada, piel, registros, ergonomía y acabados | 0, 4-6 |
-| Sonido/DJ | PA alquilado, SPL, consumo, montaje y operación | 4, 6-8 |
-| Fabricación | soldadura crítica, costillas, paneles y fijaciones | 3-6 |
-| Piloto/seguridad | visibilidad, maniobra, spotters y checklist | 2-8 |
-| Compras/logística | donor, cotizaciones, repuestos y transporte | 1-8 |
+## Arquitectura modular de madera
 
-Una persona puede cubrir varios roles, excepto que las revisiones críticas de frenos y 230 V deben realizarlas especialistas competentes.
+Propuesta preliminar, sujeta a cálculo y sitio:
 
-## Hitos y entregables
+- bastidores de pino seco cepillado, sección inicial de referencia 45 × 70 mm;
+- piel de fenólico exterior de 9-12 mm, perforada sólo donde no reduzca arriostramiento;
+- 5-7 módulos máximos, cada uno transportable por 2-4 personas;
+- uniones repetibles con bulones M10/M12, arandelas anchas, tuercas autofrenantes e insertos reemplazables;
+- diagonales o paneles de corte en cada módulo;
+- unión al suelo mediante patas regulables sobre placas y lastre calculado; no confiar en estacas sin autorización del predio;
+- ningún módulo suspendido únicamente por tornillos de borde en contrachapado;
+- bordes redondeados, tornillería no saliente y superficies no escalables por público;
+- LED SELV de 24 V; 230 V permanece fuera del cuerpo de madera salvo tablero profesional protegido.
 
-1. `M0 - alcance`: README, plan, presupuesto y planos preliminares aprobados.
-2. `M1 - donor`: informe de inspección, fotos, manual, pesaje y prueba de 5 km.
-3. `M2 - rolling prototype`: plano de interfaces actualizado, lista de torque y ensayo de freno.
-4. `M3 - fiesta estacionaria`: unifilar AC, prueba RCD, distribución PA y procedimiento de generador.
-5. `M4 - chakana`: plantilla 1:1 de fachada, despiece y masa real.
-6. `M5 - aceptación`: dossier as-built, checklist diario y registro de ensayos.
-7. `M6 - evento piloto`: informe de operación y backlog de mejoras.
+La estabilidad frente al viento depende del sitio, permeabilidad, profundidad, lastre y anclaje. Debe revisarla un profesional antes de uso público exterior.
 
-## Ensayos mínimos
+## Datos a registrar en 2026
 
-- Pesar cada eje con piloto, arte y equipos en configuración de marcha.
-- Verificar que cada neumático tenga capacidad certificada >= 1,25 veces la carga máxima medida de esa rueda.
-- Completar 5 km sobre pasto/tierra y registrar tensión inicial/final y temperatura.
-- Arrancar y frenar sobre una pendiente seca del 10%; estacionar con freno y calzos.
-- Frenar recto desde 10 km/h sin pérdida de dirección.
-- Probar giro y recorrido de suspensión completos con al menos 25 mm de despeje dinámico.
-- Verificar Tow/neutro con llave fuera; dos adultos deben poder moverlo en suelo firme.
-- Operar PA y generador durante cuatro horas con RCD, térmicas y cable protegido.
-- Desplegar/replegar la fachada DJ con dos personas, sin ingresar bajo un panel sin puntal mecánico.
-- Realizar ensayo nocturno de iluminación funcional 360 grados.
+| Dato | Método |
+|---|---|
+| masa de cada módulo | balanza antes del acabado y final |
+| volumen de transporte | largo × ancho × alto embalado |
+| montaje/desmontaje | personas-minuto por operación |
+| reapriete | registrar unión y vueltas/torque |
+| deformación | regla/hilo y fotos en puntos de control |
+| viento | estación local/anemómetro y observación |
+| ergonomía DJ | estaturas de prueba, alcance y fatiga |
+| energía/audio | potencia media, pico y horas |
+| daños | pieza, causa, reparación y recurrencia |
+| interacción pública | puntos tocados, apoyos y zonas de acumulación |
 
-## Riesgos que detienen el proyecto
+## Gates 2027
 
-- Chasis fisurado, capacidad del fabricante desconocida o donor sin identificación.
-- Banco de baterías agotado que lleve el total por encima del gate G1.
-- Freno de servicio o estacionamiento insuficiente después de aumentar diámetro de rueda.
-- Neumáticos sin tabla de carga, interferencias o necesidad de separadores estructuralmente no verificados.
-- Tow/neutro sólo electrónico que no desacople ni habilite remolque según el fabricante.
-- Fachada que obstruya visión, dirección, ruedas, ventilación, E-stop o salida del piloto.
-- Generador funcionando sobre el vehículo, encerrado o durante la marcha.
-- DJ o cualquier pasajero de pie con el vehículo en movimiento.
+1. Informe 2026 cerrado y masa móvil objetivo definida.
+2. Tres opciones comparables: donor local, Hengna y otro proveedor integrado.
+3. Cotización puesta en taller, no sólo FOB.
+4. Dirección, frenos de cuatro ruedas, parking, Tow/neutro y documentación completos.
+5. Rolling prototype aprobado antes de fabricar la piel metálica.
+6. Presupuesto 2027 aprobado por separado; no usar el presupuesto estático como promesa del vehículo.
 
-## Control de cambios
-
-Las cotas de los planos son `DE PROYECTO` hasta elegir el donor. En M1 se reemplazan por cotas `AS-BUILT`. Cambios que afecten frenos, ancho de vía, altura del centro de gravedad, masa, 230 V o ocupación deben volver al gate correspondiente.
+La evaluación técnica de movilidad se encuentra en [COMPARATIVA_MOVILIDAD_2027.md](COMPARATIVA_MOVILIDAD_2027.md).
