@@ -1,0 +1,1006 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/v4ogc5",
+    "id": "v4ogc5",
+    "slide": 12,
+    "layoutId": "495b88ce-b10a-4867-a907-eddbe2099bdf",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "6d48fafe-cd28-46c7-8813-2eaf7cdbf380",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FCFAF6",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "495b88ce-b10a-4867-a907-eddbe2099bdf",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "6d48fafe-cd28-46c7-8813-2eaf7cdbf380",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "6d48fafe-cd28-46c7-8813-2eaf7cdbf380",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5svalcv",
+      "id": "1",
+      "bbox": [
+        78,
+        72,
+        330,
+        28
+      ],
+      "geometry": "rect",
+      "text": "PRÓXIMO GATE",
+      "textPreview": "PRÓXIMO GATE",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#B86632",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PRÓXIMO GATE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PRÓXIMO GATE",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#B86632",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PRÓXIMO GATE",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#B86632",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8ju5gb6",
+      "id": "2",
+      "bbox": [
+        78,
+        125,
+        680,
+        155
+      ],
+      "geometry": "rect",
+      "text": "El RFQ debe eliminar\nla incertidumbre",
+      "textPreview": "El RFQ debe eliminar | la incertidumbre",
+      "resolvedFontSize": 52,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 52,
+        "typeface": "Arial",
+        "color": "#071624",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "El RFQ debe eliminar"
+          },
+          {
+            "index": 2,
+            "text": "la incertidumbre"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "El RFQ debe eliminar",
+          "resolvedTextStyle": {
+            "fontSize": 52,
+            "typeface": "Arial",
+            "color": "#071624",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "El RFQ debe eliminar",
+              "fontSize": 52,
+              "typeface": "Arial",
+              "color": "#071624",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "la incertidumbre",
+          "resolvedTextStyle": {
+            "fontSize": 52,
+            "typeface": "Arial",
+            "color": "#071624",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "la incertidumbre",
+              "fontSize": 52,
+              "typeface": "Arial",
+              "color": "#071624",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7adcbul",
+      "id": "3",
+      "name": "rule",
+      "bbox": [
+        82,
+        320,
+        105,
+        6
+      ],
+      "geometry": "rect",
+      "fillColor": "#F3A333",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/321cz6t4",
+      "id": "4",
+      "name": "bullet-0",
+      "bbox": [
+        82,
+        377,
+        9,
+        9
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#4BC0C8",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/218b61cj",
+      "id": "5",
+      "name": "bullet-text-0",
+      "bbox": [
+        108,
+        370,
+        594,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Masa, GVWR y cargas por eje",
+      "textPreview": "Masa, GVWR y cargas por eje",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Arial",
+        "color": "#132433",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Masa, GVWR y cargas por eje"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Masa, GVWR y cargas por eje",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Arial",
+            "color": "#132433",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Masa, GVWR y cargas por eje",
+              "fontSize": 21,
+              "typeface": "Arial",
+              "color": "#132433",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4ju1gba",
+      "id": "6",
+      "name": "bullet-1",
+      "bbox": [
+        82,
+        431,
+        9,
+        9
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#4BC0C8",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/43at8bup",
+      "id": "7",
+      "name": "bullet-text-1",
+      "bbox": [
+        108,
+        424,
+        594,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Curvas de torque, corriente y temperatura",
+      "textPreview": "Curvas de torque, corriente y temperatura",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Arial",
+        "color": "#132433",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Curvas de torque, corriente y temperatura"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Curvas de torque, corriente y temperatura",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Arial",
+            "color": "#132433",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Curvas de torque, corriente y temperatura",
+              "fontSize": 21,
+              "typeface": "Arial",
+              "color": "#132433",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fehcvmd8",
+      "id": "8",
+      "name": "bullet-2",
+      "bbox": [
+        82,
+        485,
+        9,
+        9
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#4BC0C8",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ud8b21cn",
+      "id": "9",
+      "name": "bullet-text-2",
+      "bbox": [
+        108,
+        478,
+        594,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Frenos 4 ruedas y parking 20%",
+      "textPreview": "Frenos 4 ruedas y parking 20%",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Arial",
+        "color": "#132433",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Frenos 4 ruedas y parking 20%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Frenos 4 ruedas y parking 20%",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Arial",
+            "color": "#132433",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Frenos 4 ruedas y parking 20%",
+              "fontSize": 21,
+              "typeface": "Arial",
+              "color": "#132433",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gb61oz21",
+      "id": "10",
+      "name": "bullet-3",
+      "bbox": [
+        82,
+        539,
+        9,
+        9
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#4BC0C8",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcf2x4j6",
+      "id": "11",
+      "name": "bullet-text-3",
+      "bbox": [
+        108,
+        532,
+        594,
+        50
+      ],
+      "geometry": "rect",
+      "text": "UN38.3, esquemas, software y repuestos",
+      "textPreview": "UN38.3, esquemas, software y repuestos",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Arial",
+        "color": "#132433",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "UN38.3, esquemas, software y repuestos"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "UN38.3, esquemas, software y repuestos",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Arial",
+            "color": "#132433",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "UN38.3, esquemas, software y repuestos",
+              "fontSize": 21,
+              "typeface": "Arial",
+              "color": "#132433",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u94jmpkv",
+      "id": "12",
+      "name": "rfq-block",
+      "bbox": [
+        785,
+        110,
+        390,
+        470
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#071624",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fadkvu1g",
+      "id": "13",
+      "bbox": [
+        850,
+        160,
+        260,
+        80
+      ],
+      "geometry": "rect",
+      "text": "GO",
+      "textPreview": "GO",
+      "resolvedFontSize": 62,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 62,
+        "typeface": "Arial",
+        "color": "#4BC0C8",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "GO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "GO",
+          "resolvedTextStyle": {
+            "fontSize": 62,
+            "typeface": "Arial",
+            "color": "#4BC0C8",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GO",
+              "fontSize": 62,
+              "typeface": "Arial",
+              "color": "#4BC0C8",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7m1kz2p",
+      "id": "14",
+      "bbox": [
+        835,
+        270,
+        290,
+        100
+      ],
+      "geometry": "rect",
+      "text": "si el proveedor responde\ncada línea con evidencia",
+      "textPreview": "si el proveedor responde | cada línea con evidencia",
+      "resolvedFontSize": 24.71,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "si el proveedor"
+          },
+          {
+            "index": 2,
+            "text": "responde"
+          },
+          {
+            "index": 3,
+            "text": "cada línea con"
+          },
+          {
+            "index": 4,
+            "text": "evidencia"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "si el proveedor responde",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "si el proveedor responde",
+              "fontSize": 25,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "cada línea con evidencia",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "cada línea con evidencia",
+              "fontSize": 25,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8vit4ja",
+      "id": "15",
+      "name": "rule",
+      "bbox": [
+        870,
+        410,
+        220,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#F3A333",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l4jipkj",
+      "id": "16",
+      "bbox": [
+        850,
+        445,
+        260,
+        50
+      ],
+      "geometry": "rect",
+      "text": "NO-GO",
+      "textPreview": "NO-GO",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Arial",
+        "color": "#F3A333",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NO-GO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NO-GO",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Arial",
+            "color": "#F3A333",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NO-GO",
+              "fontSize": 34,
+              "typeface": "Arial",
+              "color": "#F3A333",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76d0ru14",
+      "id": "17",
+      "bbox": [
+        845,
+        505,
+        270,
+        50
+      ],
+      "geometry": "rect",
+      "text": "ante claims sin método de ensayo",
+      "textPreview": "ante claims sin método de ensayo",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#DCE7ED",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ante claims sin método de"
+          },
+          {
+            "index": 2,
+            "text": "ensayo"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ante claims sin método de ensayo",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#DCE7ED",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ante claims sin método de ensayo",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#DCE7ED",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3q1wj2t",
+      "id": "18",
+      "bbox": [
+        82,
+        650,
+        540,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Anexo A del anteproyecto: RFQ bilingüe completo",
+      "textPreview": "Anexo A del anteproyecto: RFQ bilingüe completo",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#62717C",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Anexo A del anteproyecto: RFQ bilingüe completo"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Anexo A del anteproyecto: RFQ bilingüe completo",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#62717C",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Anexo A del anteproyecto: RFQ bilingüe completo",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#62717C",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

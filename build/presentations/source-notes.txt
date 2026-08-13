@@ -1,0 +1,28 @@
+PROJECT SOURCES
+
+- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf
+- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx
+- /Users/martinmarquez/projects/chakana-art-car/output/visuals/01_tatu_sonoro.png
+- /Users/martinmarquez/projects/chakana-art-car/output/visuals/02_chakana_resonante.png
+- /Users/martinmarquez/projects/chakana-art-car/output/visuals/03_coati_nocturno.png
+- /Users/martinmarquez/projects/chakana-art-car/output/visuals/09_tatu_hero_presentacion.png
+- /Users/martinmarquez/projects/chakana-art-car/output/visuals/10_cabina_dj_presentacion.png
+- /Users/martinmarquez/projects/chakana-art-car/output/visuals/11_cutaway_presentacion.png
+
+OFFICIAL / EXTERNAL SOURCES
+
+- https://burningman.org/black-rock-city/bring-your-mutant-vehicle/mv-criteria-and-licensing/
+- https://burningman.org/black-rock-city/bring-your-mutant-vehicle/mutant-vehicle-owners-handbook/
+- https://www.afrikaburn.org/event/participation/mutant-vehicles/
+- https://www.afrikaburn.org/afrikaburn-sound-policy/
+- https://www.goingnowhere.org/participate/artomobiles/
+- https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo
+- https://www.argentina.gob.ar/normativa/nacional/norma-407914
+- https://www.argentina.gob.ar/node/196822
+- https://www.phmsa.dot.gov/lithiumbatteries
+- https://www.who.int/publications/i/item/9789240043114
+- https://www.alibaba.com/product-detail/Four-Wheel-Unmanned-Autonomous-Wire-Control_1601605765591.html
+- https://www.alibaba.com/product-detail/OEM-Custom-Remote-Controlled-Rubber-Track_1601864041467.html
+- https://www.alibaba.com/product-detail/100CM-2000W-Shift-Differential-Rear-Axle_1601869479511.html
+
+Generated presentation imagery was produced with the built-in ImageGen mode from project-owned prompts. Concept imagery is visual intent, not dimensional evidence.

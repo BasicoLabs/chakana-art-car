@@ -1,0 +1,214 @@
+{"kind":"slide","id":"sl/indznu","slide":1,"title":"IDEA + ANTEPROYECTO","textShapes":4}
+{"kind":"textbox","id":"sh/p8ji1gvi","slide":1,"text":"IDEA + ANTEPROYECTO","textPreview":"IDEA + ANTEPROYECTO","textChars":19,"textLines":1,"bbox":[72,76,400,28]}
+{"kind":"textbox","id":"sh/o7qhsbux","slide":1,"name":"deck-title","text":"Tatú\nSonoro","textPreview":"Tatú | Sonoro","textChars":11,"textLines":2,"bbox":[72,130,420,185]}
+{"kind":"shape","id":"sh/bu103qd8","slide":1,"name":"rule","bbox":[74,340,108,5]}
+{"kind":"textbox","id":"sh/q9szulcn","slide":1,"text":"Una criatura musical móvil\npara barro, pasto y noche","textPreview":"Una criatura musical móvil | para barro, pasto y noche","textChars":52,"textLines":2,"bbox":[72,370,410,102]}
+{"kind":"textbox","id":"sh/dwji5gve","slide":1,"text":"Argentina · prefactibilidad · agosto 2026","textPreview":"Argentina · prefactibilidad · agosto 2026","textChars":41,"textLines":1,"bbox":[72,650,400,24]}
+{"kind":"image","id":"im/b6x0nyl0","slide":1,"name":"","geometry":"rect","alt":"Tatú Sonoro iluminado de noche, con DJ central y silueta de armadillo.","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/indznu","slide":1,"text":"Abrir con la criatura y el propósito, no con el chasis.\n\n[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/09_tatu_hero_presentacion.png\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/ignsz6","slide":2,"title":"TATÚ SONORO","textShapes":10}
+{"kind":"textbox","id":"sh/rmpofep8","slide":2,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/snypoj6t","slide":2,"name":"slide-title","text":"Una criatura, no un vehículo decorado","textPreview":"Una criatura, no un vehículo decorado","textChars":37,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/do76ho7e","slide":2,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/ihg7i9or","slide":2,"text":"CRIATURA","textPreview":"CRIATURA","textChars":8,"textLines":1,"bbox":[80,205,500,80]}
+{"kind":"textbox","id":"sh/3ipobepc","slide":2,"text":"MÚSICA","textPreview":"MÚSICA","textChars":6,"textLines":1,"bbox":[80,300,500,80]}
+{"kind":"textbox","id":"sh/4jypkz6h","slide":2,"text":"MOVIMIENTO","textPreview":"MOVIMIENTO","textChars":10,"textLines":1,"bbox":[80,395,620,80]}
+{"kind":"shape","id":"sh/5k76d472","slide":2,"name":"rule","bbox":[730,215,4,320]}
+{"kind":"textbox","id":"sh/2d07utov","slide":2,"text":"La máquina desaparece detrás de una anatomía continua. El DJ, los parlantes y las personas forman parte del cuerpo; no se agregan arriba de un carrito.","textPreview":"La máquina desaparece detrás de una anatomía continua. El DJ, los parlantes y las personas forman parte del cuerpo; no se agregan arriba ...","textChars":151,"textLines":1,"bbox":[790,210,390,240]}
+{"kind":"textbox","id":"sh/ne98nypg","slide":2,"text":"Prueba de lectura","textPreview":"Prueba de lectura","textChars":17,"textLines":1,"bbox":[790,490,260,30]}
+{"kind":"textbox","id":"sh/fax4ji1c","slide":2,"text":"A 20 metros debe verse primero un tatú. Si se ve un UTV, el arte todavía no terminó.","textPreview":"A 20 metros debe verse primero un tatú. Si se ve un UTV, el arte todavía no terminó.","textChars":84,"textLines":1,"bbox":[790,528,390,78]}
+{"kind":"textbox","id":"sh/e9onqd0r","slide":2,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/1cz6lsji","slide":2,"name":"slide-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/ignsz6","slide":2,"text":"[Sources]\n- https://burningman.org/black-rock-city/bring-your-mutant-vehicle/mv-criteria-and-licensing/\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/1n1jcg","slide":3,"title":"TATÚ SONORO","textShapes":14}
+{"kind":"textbox","id":"sh/cvqd4rmp","slide":3,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/ruhwbmlk","slide":3,"name":"slide-title","text":"La misión exige poco alcance y mucha capacidad","textPreview":"La misión exige poco alcance y mucha capacidad","textChars":46,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/qt8v2h4z","slide":3,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/psze9w3e","slide":3,"name":"metric-5 km","text":"5 km","textPreview":"5 km","textChars":4,"textLines":1,"bbox":[85,205,220,74]}
+{"kind":"textbox","id":"sh/47qd0rmt","slide":3,"name":"metric-label-5 km","text":"por carga","textPreview":"por carga","textChars":9,"textLines":1,"bbox":[85,283,220,58]}
+{"kind":"shape","id":"sh/36hw7m58","slide":3,"name":"rule","bbox":[320,210,3,270]}
+{"kind":"textbox","id":"sh/25ovyh4n","slide":3,"name":"metric-500 kg","text":"500 kg","textPreview":"500 kg","textChars":6,"textLines":1,"bbox":[365,205,220,74]}
+{"kind":"textbox","id":"sh/h4fe5cn2","slide":3,"name":"metric-label-500 kg","text":"carga útil neta","textPreview":"carga útil neta","textChars":15,"textLines":1,"bbox":[365,283,220,58]}
+{"kind":"shape","id":"sh/g36dw7mx","slide":3,"name":"rule","bbox":[600,210,3,270]}
+{"kind":"textbox","id":"sh/qdk3qhcz","slide":3,"name":"metric-5 km/h","text":"5 km/h","textPreview":"5 km/h","textChars":6,"textLines":1,"bbox":[645,205,220,74]}
+{"kind":"textbox","id":"sh/bet4jmtk","slide":3,"name":"metric-label-5 km/h","text":"velocidad normal","textPreview":"velocidad normal","textChars":16,"textLines":1,"bbox":[645,283,220,58]}
+{"kind":"shape","id":"sh/cf2lcru5","slide":3,"name":"rule","bbox":[880,210,3,270]}
+{"kind":"textbox","id":"sh/dgbmlwbq","slide":3,"name":"metric-5","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[925,205,260,74]}
+{"kind":"textbox","id":"sh/2p03mxc3","slide":3,"name":"metric-label-5","text":"piloto + DJ + 3 pasajeros","textPreview":"piloto + DJ + 3 pasajeros","textChars":25,"textLines":1,"bbox":[925,283,260,58]}
+{"kind":"textbox","id":"sh/3q94f2to","slide":3,"text":"Pasto · rastrojo · barro · 10% continuo · 15% corto","textPreview":"Pasto · rastrojo · barro · 10% continuo · 15% corto","textChars":51,"textLines":1,"bbox":[85,545,1100,50]}
+{"kind":"textbox","id":"sh/orilo7u9","slide":3,"text":"Límite duro: 10 km/h. Con público, noche o irregularidades: 5 km/h y spotters.","textPreview":"Límite duro: 10 km/h. Con público, noche o irregularidades: 5 km/h y spotters.","textChars":78,"textLines":1,"bbox":[170,610,940,42]}
+{"kind":"textbox","id":"sh/pcbmhcbu","slide":3,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/el03ixc7","slide":3,"name":"slide-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/1n1jcg","slide":3,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n- https://www.afrikaburn.org/event/participation/mutant-vehicles/\n- https://www.goingnowhere.org/participate/artomobiles/\n[/Sources]"}
+{"kind":"slide","id":"sl/z7eirj","slide":4,"title":"TATÚ SONORO","textShapes":11}
+{"kind":"textbox","id":"sh/98jm9o3i","slide":4,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/ml83y94r","slide":4,"name":"slide-title","text":"Tatú y Chakana casi empatan","textPreview":"Tatú y Chakana casi empatan","textChars":27,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/7m1k7elc","slide":4,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"shape","id":"sh/lkz25436","slide":4,"name":"concept-line-0","bbox":[72,505,350,5]}
+{"kind":"textbox","id":"sh/yh83u94v","slide":4,"text":"Tatú Sonoro","textPreview":"Tatú Sonoro","textChars":11,"textLines":1,"bbox":[72,530,260,32]}
+{"kind":"textbox","id":"sh/zihk3elg","slide":4,"text":"4,55","textPreview":"4,55","textChars":4,"textLines":1,"bbox":[347,522,75,46]}
+{"kind":"shape","id":"sh/5g3mh83q","slide":4,"name":"concept-line-1","bbox":[456,505,350,5]}
+{"kind":"textbox","id":"sh/psj21c7i","slide":4,"text":"Chakana Resonante","textPreview":"Chakana Resonante","textChars":17,"textLines":1,"bbox":[456,530,260,32]}
+{"kind":"textbox","id":"sh/oral876x","slide":4,"text":"4,53","textPreview":"4,53","textChars":4,"textLines":1,"bbox":[731,522,75,46]}
+{"kind":"shape","id":"sh/2ps36xo7","slide":4,"name":"concept-line-2","bbox":[840,505,350,5]}
+{"kind":"textbox","id":"sh/1oj2xs7m","slide":4,"text":"Coatí Nocturno","textPreview":"Coatí Nocturno","textChars":14,"textLines":1,"bbox":[840,530,260,32]}
+{"kind":"textbox","id":"sh/gnal47q1","slide":4,"text":"4,15","textPreview":"4,15","textChars":4,"textLines":1,"bbox":[1115,522,75,46]}
+{"kind":"textbox","id":"sh/fm1kv2pg","slide":4,"text":"Tatú gana por mutación y seguridad. Chakana aporta la lógica modular y flat-pack.","textPreview":"Tatú gana por mutación y seguridad. Chakana aporta la lógica modular y flat-pack.","textChars":81,"textLines":1,"bbox":[170,610,940,40]}
+{"kind":"textbox","id":"sh/uls32x8v","slide":4,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/lknm9w7q","slide":4,"name":"slide-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"image","id":"im/tg7mpgjq","slide":4,"name":"","geometry":"roundRect","alt":"Tatú Sonoro","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[72,180,350,310]}
+{"kind":"image","id":"im/1krmt0jm","slide":4,"name":"","geometry":"roundRect","alt":"Chakana Resonante","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[456,180,350,310]}
+{"kind":"image","id":"im/47m9kryt","slide":4,"name":"","geometry":"roundRect","alt":"Coatí Nocturno","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[840,180,350,310]}
+{"kind":"notes","id":"nt/z7eirj","slide":4,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/01_tatu_sonoro.png\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/02_chakana_resonante.png\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/03_coati_nocturno.png\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/k6pdvo","slide":5,"title":"TATÚ SONORO","textShapes":16}
+{"kind":"textbox","id":"sh/4bm5kva9","slide":5,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/3ad4rqto","slide":5,"name":"slide-title","text":"Tatú esconde mejor la máquina","textPreview":"Tatú esconde mejor la máquina","textChars":29,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/2943ils3","slide":5,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/d0fmx0bq","slide":5,"text":"4,55","textPreview":"4,55","textChars":4,"textLines":1,"bbox":[78,175,430,140]}
+{"kind":"textbox","id":"sh/cz65oval","slide":5,"text":"/ 5","textPreview":"/ 5","textChars":3,"textLines":1,"bbox":[355,247,130,50]}
+{"kind":"textbox","id":"sh/ryx4vqt0","slide":5,"text":"Puntaje ponderado","textPreview":"Puntaje ponderado","textChars":17,"textLines":1,"bbox":[86,330,330,34]}
+{"kind":"shape","id":"sh/qdonmlsf","slide":5,"name":"rule","bbox":[540,180,4,365]}
+{"kind":"textbox","id":"sh/14zm1kb2","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,191,58,42]}
+{"kind":"shape","id":"sh/0365sfah","slide":5,"name":"band-rule-1","bbox":[150,208,100,3]}
+{"kind":"textbox","id":"sh/alcbydof","slide":5,"text":"Silueta","textPreview":"Silueta","textChars":7,"textLines":1,"bbox":[275,190,310,42]}
+{"kind":"textbox","id":"sh/bmlsrip0","slide":5,"text":"Caparazón continuo: no hay capot, cabina ni plataforma reconocible.","textPreview":"Caparazón continuo: no hay capot, cabina ni plataforma reconocible.","textChars":67,"textLines":1,"bbox":[610,190,570,64]}
+{"kind":"textbox","id":"sh/w7ut036l","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,311,58,42]}
+{"kind":"shape","id":"sh/x83at876","slide":5,"name":"band-rule-2","bbox":[150,328,100,3]}
+{"kind":"textbox","id":"sh/y9wb2dor","slide":5,"text":"Packaging","textPreview":"Packaging","textChars":9,"textLines":1,"bbox":[275,310,310,42]}
+{"kind":"textbox","id":"sh/ja5svipw","slide":5,"text":"Piloto en la cabeza; DJ en la madriguera; pasajeros en alcobas laterales.","textPreview":"Piloto en la cabeza; DJ en la madriguera; pasajeros en alcobas laterales.","textChars":73,"textLines":1,"bbox":[610,310,570,64]}
+{"kind":"textbox","id":"sh/kbet4n6h","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,431,58,42]}
+{"kind":"shape","id":"sh/lcnaxs72","slide":5,"name":"band-rule-3","bbox":[150,448,100,3]}
+{"kind":"textbox","id":"sh/edsrqto7","slide":5,"text":"Taller","textPreview":"Taller","textChars":6,"textLines":1,"bbox":[275,430,310,42]}
+{"kind":"textbox","id":"sh/ze1sjeps","slide":5,"text":"Escamas removibles: rueda, freno, batería y rescate siguen accesibles.","textPreview":"Escamas removibles: rueda, freno, batería y rescate siguen accesibles.","textChars":70,"textLines":1,"bbox":[610,430,570,64]}
+{"kind":"textbox","id":"sh/36xgbq18","slide":5,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/iloz2l0n","slide":5,"name":"slide-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/k6pdvo","slide":5,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/poymnv","slide":6,"title":"El DJ forma","textShapes":7}
+{"kind":"shape","id":"sh/wbu5cfe1","slide":6,"name":"dj-text-panel","bbox":[835,0,445,720]}
+{"kind":"textbox","id":"sh/xc365kfm","slide":6,"text":"El DJ forma\nparte del cuerpo","textPreview":"El DJ forma | parte del cuerpo","textChars":28,"textLines":2,"bbox":[880,85,340,135]}
+{"kind":"shape","id":"sh/25sn65wz","slide":6,"name":"rule","bbox":[880,242,90,5]}
+{"kind":"shape","id":"sh/n614zaxk","slide":6,"name":"bullet-0","bbox":[880,297,9,9]}
+{"kind":"textbox","id":"sh/o7a58fep","slide":6,"name":"bullet-text-0","text":"Semi-sentado y contenido en movimiento","textPreview":"Semi-sentado y contenido en movimiento","textChars":38,"textLines":1,"bbox":[906,290,309,68]}
+{"kind":"shape","id":"sh/p8jm1kfa","slide":6,"name":"bullet-1","bbox":[880,369,9,9]}
+{"kind":"textbox","id":"sh/e18n25wn","slide":6,"name":"bullet-text-1","text":"PA 1,8 kW RMS · ≤1 kW promedio","textPreview":"PA 1,8 kW RMS · ≤1 kW promedio","textChars":30,"textLines":1,"bbox":[906,362,309,68]}
+{"kind":"shape","id":"sh/f2h4vax8","slide":6,"name":"bullet-2","bbox":[880,441,9,9]}
+{"kind":"textbox","id":"sh/ju5gfi5k","slide":6,"name":"bullet-text-2","text":"Sub bajo y tops dentro de los hombros","textPreview":"Sub bajo y tops dentro de los hombros","textChars":37,"textLines":1,"bbox":[906,434,309,68]}
+{"kind":"shape","id":"sh/itwfmd4z","slide":6,"name":"bullet-3","bbox":[880,513,9,9]}
+{"kind":"textbox","id":"sh/5gnyhsnq","slide":6,"name":"bullet-text-3","text":"Mute físico y DSP con presets","textPreview":"Mute físico y DSP con presets","textChars":29,"textLines":1,"bbox":[906,506,309,68]}
+{"kind":"textbox","id":"sh/kvexonm5","slide":6,"text":"De pie, sólo estacionado.","textPreview":"De pie, sólo estacionado.","textChars":25,"textLines":1,"bbox":[880,610,330,35]}
+{"kind":"textbox","id":"sh/7i5gji5g","slide":6,"text":"Visual conceptual · no es plano","textPreview":"Visual conceptual · no es plano","textChars":31,"textLines":1,"bbox":[40,674,320,18]}
+{"kind":"image","id":"im/2583apsz","slide":6,"name":"","geometry":"rect","alt":"Cabina DJ semi-sentada integrada al caparazón del Tatú Sonoro.","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/poymnv","slide":6,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/10_cabina_dj_presentacion.png\n- https://www.afrikaburn.org/afrikaburn-sound-policy/\n- https://www.who.int/publications/i/item/9789240043114\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/0f604w","slide":7,"title":"TATÚ SONORO","textShapes":13}
+{"kind":"textbox","id":"sh/5wv21oz6","slide":7,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/itk36tgv","slide":7,"name":"slide-title","text":"La ingeniería queda debajo de la escultura","textPreview":"La ingeniería queda debajo de la escultura","textChars":42,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/3utkzehg","slide":7,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/d0vm58zi","slide":7,"text":"Bajo y centrado","textPreview":"Bajo y centrado","textChars":15,"textLines":1,"bbox":[890,185,300,36]}
+{"kind":"shape","id":"sh/qx43atgr","slide":7,"name":"bullet-0","bbox":[895,242,9,9]}
+{"kind":"textbox","id":"sh/rydk3yhc","slide":7,"name":"bullet-text-0","text":"Batería LFP","textPreview":"Batería LFP","textChars":11,"textLines":1,"bbox":[921,235,264,48]}
+{"kind":"shape","id":"sh/036lg3yt","slide":7,"name":"bullet-1","bbox":[895,294,9,9]}
+{"kind":"textbox","id":"sh/14fm98ze","slide":7,"name":"bullet-text-1","text":"Subwoofer","textPreview":"Subwoofer","textChars":9,"textLines":1,"bbox":[921,287,264,48]}
+{"kind":"shape","id":"sh/9c7i9cfa","slide":7,"name":"bullet-2","bbox":[895,346,9,9]}
+{"kind":"textbox","id":"sh/obyhg7yp","slide":7,"name":"bullet-text-2","text":"Inversor y rack","textPreview":"Inversor y rack","textChars":15,"textLines":1,"bbox":[921,339,264,48]}
+{"kind":"textbox","id":"sh/nap07mx4","slide":7,"text":"Alto y liviano","textPreview":"Alto y liviano","textChars":14,"textLines":1,"bbox":[890,420,300,36]}
+{"kind":"shape","id":"sh/m9gzehgj","slide":7,"name":"bullet-0","bbox":[895,477,9,9]}
+{"kind":"textbox","id":"sh/x0ridwf6","slide":7,"name":"bullet-text-0","text":"Escamas desmontables","textPreview":"Escamas desmontables","textChars":20,"textLines":1,"bbox":[921,470,264,48]}
+{"kind":"shape","id":"sh/wzi1kryl","slide":7,"name":"bullet-1","bbox":[895,529,9,9]}
+{"kind":"textbox","id":"sh/be90bmx0","slide":7,"name":"bullet-text-1","text":"Iluminación","textPreview":"Iluminación","textChars":11,"textLines":1,"bbox":[921,522,264,48]}
+{"kind":"shape","id":"sh/ad0jihgf","slide":7,"name":"bullet-2","bbox":[895,581,9,9]}
+{"kind":"textbox","id":"sh/d4ni1sz2","slide":7,"name":"bullet-text-2","text":"Canopy permeable","textPreview":"Canopy permeable","textChars":16,"textLines":1,"bbox":[921,574,264,48]}
+{"kind":"textbox","id":"sh/cjeh8nyh","slide":7,"text":"Packaging final a validar en CAD","textPreview":"Packaging final a validar en CAD","textChars":32,"textLines":1,"bbox":[80,645,420,20]}
+{"kind":"textbox","id":"sh/4ni1o76d","slide":7,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/5orixs7y","slide":7,"name":"slide-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"image","id":"im/l0rmh4jm","slide":7,"name":"","geometry":"roundRect","alt":"Corte visual conceptual del Tatú Sonoro con caparazón abierto.","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[60,155,790,470]}
+{"kind":"notes","id":"nt/0f604w","slide":7,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/11_cutaway_presentacion.png\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/qxvrn4","slide":8,"title":"TATÚ SONORO","textShapes":8}
+{"kind":"textbox","id":"sh/7i5kf25s","slide":8,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/8jel876d","slide":8,"name":"slide-title","text":"15 kWh cierran la misión más exigente","textPreview":"15 kWh cierran la misión más exigente","textChars":37,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/tkn2hcny","slide":8,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"shape","id":"sh/vm5kjm5o","slide":8,"name":"usable-line","bbox":[93,243,720,4]}
+{"kind":"textbox","id":"sh/gnelc769","slide":8,"text":"10,2 kWh utilizables","textPreview":"10,2 kWh utilizables","textChars":20,"textLines":1,"bbox":[650,217,180,24]}
+{"kind":"textbox","id":"sh/hon2lcnu","slide":8,"name":"metric-1,48","text":"1,48","textPreview":"1,48","textChars":4,"textLines":1,"bbox":[900,210,270,74]}
+{"kind":"textbox","id":"sh/apsjydoz","slide":8,"name":"metric-label-1,48","text":"kWh de margen en barro +10%","textPreview":"kWh de margen en barro +10%","textChars":27,"textLines":1,"bbox":[900,288,270,58]}
+{"kind":"textbox","id":"sh/bqlk7i5k","slide":8,"text":"La distancia sola no dimensiona la batería. El peor caso combina masa, rodadura, pendiente y 1,45 kW de auxiliares.","textPreview":"La distancia sola no dimensiona la batería. El peor caso combina masa, rodadura, pendiente y 1,45 kW de auxiliares.","textChars":115,"textLines":1,"bbox":[900,405,285,145]}
+{"kind":"textbox","id":"sh/zap0vylg","slide":8,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/y9gjmt4v","slide":8,"name":"slide-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"chart","id":"ch/658nuh8f","slide":8,"name":"","chartType":"bar","bbox":[72,190,780,390]}
+{"kind":"notes","id":"nt/qxvrn4","slide":8,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/t77p0c","slide":9,"title":"TATÚ SONORO","textShapes":9}
+{"kind":"textbox","id":"sh/fmpwn658","slide":9,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/0nidwb6t","slide":9,"name":"slide-title","text":"El presupuesto compra margen","textPreview":"El presupuesto compra margen","textChars":28,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/1orepgne","slide":9,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/rypwj65c","slide":9,"text":"USD 65,9k","textPreview":"USD 65,9k","textChars":9,"textLines":1,"bbox":[905,210,290,60]}
+{"kind":"textbox","id":"sh/sjydsr6x","slide":9,"text":"costo neto base","textPreview":"costo neto base","textChars":15,"textLines":1,"bbox":[910,280,270,30]}
+{"kind":"textbox","id":"sh/dk7elwni","slide":9,"text":"USD 76,5k","textPreview":"USD 76,5k","textChars":9,"textLines":1,"bbox":[905,365,290,60]}
+{"kind":"textbox","id":"sh/at0v2l4b","slide":9,"text":"necesidad de caja","textPreview":"necesidad de caja","textChars":17,"textLines":1,"bbox":[910,435,270,30]}
+{"kind":"textbox","id":"sh/bu9wvq5g","slide":9,"text":"Caja ≠ costo: IVA y percepciones pueden recuperarse.","textPreview":"Caja ≠ costo: IVA y percepciones pueden recuperarse.","textChars":52,"textLines":1,"bbox":[905,530,275,70]}
+{"kind":"textbox","id":"sh/n69gbuxc","slide":9,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/m50fi9wr","slide":9,"name":"slide-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"chart","id":"ch/ixsb6d8v","slide":9,"name":"","chartType":"bar","bbox":[70,190,780,385]}
+{"kind":"notes","id":"nt/t77p0c","slide":9,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n- https://www.argentina.gob.ar/normativa/nacional/norma-407914\n- https://www.argentina.gob.ar/node/196822\n[/Sources]"}
+{"kind":"slide","id":"sl/r9dww7","slide":10,"title":"TATÚ SONORO","textShapes":14}
+{"kind":"textbox","id":"sh/4v6hov6h","slide":10,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/3ux0vq5w","slide":10,"name":"slide-title","text":"No comprar todavía","textPreview":"No comprar todavía","textChars":18,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/itozm5ob","slide":10,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/hsvit0nq","slide":10,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,191,58,42]}
+{"kind":"shape","id":"sh/grmhkv6l","slide":10,"name":"band-rule-1","bbox":[150,208,100,3]}
+{"kind":"textbox","id":"sh/vqd0rq50","slide":10,"text":"4 ruedas","textPreview":"4 ruedas","textChars":8,"textLines":1,"bbox":[275,190,310,42]}
+{"kind":"textbox","id":"sh/up4zilof","slide":10,"text":"USD 530,40, pero no demuestra carga, frenos, masa ni 4WD real.","textPreview":"USD 530,40, pero no demuestra carga, frenos, masa ni 4WD real.","textChars":62,"textLines":1,"bbox":[610,190,570,64]}
+{"kind":"textbox","id":"sh/1ozi5kna","slide":10,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,316,58,42]}
+{"kind":"shape","id":"sh/0nq1wf6p","slide":10,"name":"band-rule-2","bbox":[150,333,100,3]}
+{"kind":"textbox","id":"sh/2t8rm9of","slide":10,"text":"Orugas","textPreview":"Orugas","textChars":6,"textLines":1,"bbox":[275,315,310,42]}
+{"kind":"textbox","id":"sh/3uh8fe5k","slide":10,"text":"La ficha no prueba frenado ni aptitud para pasajeros; logística y masa crecen.","textPreview":"La ficha no prueba frenado ni aptitud para pasajeros; logística y masa crecen.","textChars":78,"textLines":1,"bbox":[610,315,570,64]}
+{"kind":"textbox","id":"sh/ovq9oj65","slide":10,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,441,58,42]}
+{"kind":"shape","id":"sh/pwjahonq","slide":10,"name":"band-rule-3","bbox":[150,458,100,3]}
+{"kind":"textbox","id":"sh/ep8ri9o3","slide":10,"text":"Eje 2 kW","textPreview":"Eje 2 kW","textChars":8,"textLines":1,"bbox":[275,440,310,42]}
+{"kind":"textbox","id":"sh/fqh8be5o","slide":10,"text":"Insuficiente para 1,6 t, barro y pendiente. El claim de 900 kg no es payload.","textPreview":"Insuficiente para 1,6 t, barro y pendiente. El claim de 900 kg no es payload.","textChars":77,"textLines":1,"bbox":[610,440,570,64]}
+{"kind":"shape","id":"sh/grq9kz69","slide":10,"name":"no-buy-summary","bbox":[82,585,1095,58]}
+{"kind":"textbox","id":"sh/1szqd4nu","slide":10,"text":"Comprar especificaciones verificadas, no títulos de publicación.","textPreview":"Comprar especificaciones verificadas, no títulos de publicación.","textChars":64,"textLines":1,"bbox":[115,600,1030,30]}
+{"kind":"textbox","id":"sh/ylsrut47","slide":10,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/zm1sny5s","slide":10,"name":"slide-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/r9dww7","slide":10,"text":"[Sources]\n- https://www.alibaba.com/product-detail/Four-Wheel-Unmanned-Autonomous-Wire-Control_1601605765591.html\n- https://www.alibaba.com/product-detail/OEM-Custom-Remote-Controlled-Rubber-Track_1601864041467.html\n- https://www.alibaba.com/product-detail/100CM-2000W-Shift-Differential-Rear-Axle_1601869479511.html\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/uv0tfz","slide":11,"title":"TATÚ SONORO","textShapes":15}
+{"kind":"textbox","id":"sh/vq5c3qdk","slide":11,"name":"eyebrow","text":"TATÚ SONORO","textPreview":"TATÚ SONORO","textChars":11,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/gredwvu5","slide":11,"name":"slide-title","text":"De idea a misión validada en 7–9 meses","textPreview":"De idea a misión validada en 7–9 meses","textChars":38,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/hsne50vq","slide":11,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"shape","id":"sh/61cvqlc3","slide":11,"name":"timeline","bbox":[110,320,1060,4]}
+{"kind":"shape","id":"sh/725czqdo","slide":11,"name":"timeline-dot-0","bbox":[97,308,26,26]}
+{"kind":"textbox","id":"sh/83edsbu9","slide":11,"text":"1–2","textPreview":"1–2","textChars":3,"textLines":1,"bbox":[65,258,90,28]}
+{"kind":"textbox","id":"sh/tonu1gvu","slide":11,"text":"Brief y reglas","textPreview":"Brief y reglas","textChars":14,"textLines":1,"bbox":[28,354,164,70]}
+{"kind":"shape","id":"sh/yxcvm1c7","slide":11,"name":"timeline-dot-1","bbox":[362,308,26,26]}
+{"kind":"textbox","id":"sh/jylcv6dc","slide":11,"text":"2–8","textPreview":"2–8","textChars":3,"textLines":1,"bbox":[330,258,90,28]}
+{"kind":"textbox","id":"sh/zm9036ds","slide":11,"text":"RFQ + donor","textPreview":"RFQ + donor","textChars":11,"textLines":1,"bbox":[293,354,164,70]}
+{"kind":"shape","id":"sh/ylgza1c7","slide":11,"name":"timeline-dot-2","bbox":[627,308,26,26]}
+{"kind":"textbox","id":"sh/lori5wvi","slide":11,"text":"7–16","textPreview":"7–16","textChars":4,"textLines":1,"bbox":[595,258,90,28]}
+{"kind":"textbox","id":"sh/0nihcbux","slide":11,"text":"Ingeniería + fábrica","textPreview":"Ingeniería + fábrica","textChars":20,"textLines":1,"bbox":[558,354,164,70]}
+{"kind":"shape","id":"sh/nq9076do","slide":11,"name":"timeline-dot-3","bbox":[892,308,26,26]}
+{"kind":"textbox","id":"sh/mp0ze1c3","slide":11,"text":"16–29","textPreview":"16–29","textChars":5,"textLines":1,"bbox":[860,258,90,28]}
+{"kind":"textbox","id":"sh/9sri9gvu","slide":11,"text":"Importar + integrar","textPreview":"Importar + integrar","textChars":19,"textLines":1,"bbox":[823,354,164,70]}
+{"kind":"shape","id":"sh/8rihgbu9","slide":11,"name":"timeline-dot-4","bbox":[1157,308,26,26]}
+{"kind":"textbox","id":"sh/3u5gvmdk","slide":11,"text":"29–36","textPreview":"29–36","textChars":5,"textLines":1,"bbox":[1125,258,90,28]}
+{"kind":"textbox","id":"sh/2twz2hcz","slide":11,"text":"Ensayar + operar","textPreview":"Ensayar + operar","textChars":16,"textLines":1,"bbox":[1088,354,164,70]}
+{"kind":"textbox","id":"sh/6943apwn","slide":11,"text":"La secuencia evita esconder fallas debajo del arte: primero rolling chassis, después estructura, audio y por último caparazón.","textPreview":"La secuencia evita esconder fallas debajo del arte: primero rolling chassis, después estructura, audio y por último caparazón.","textChars":126,"textLines":1,"bbox":[190,545,900,70]}
+{"kind":"textbox","id":"sh/7adk3ux8","slide":11,"name":"footer-label","text":"PREFactibilidad · agosto 2026","textPreview":"PREFactibilidad · agosto 2026","textChars":29,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/sbmlcfed","slide":11,"name":"slide-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/uv0tfz","slide":11,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/be1ybs","slide":12,"title":"PRÓXIMA DECISIÓN","textShapes":10}
+{"kind":"textbox","id":"sh/2hozml07","slide":12,"text":"PRÓXIMA DECISIÓN","textPreview":"PRÓXIMA DECISIÓN","textChars":16,"textLines":1,"bbox":[78,70,420,30]}
+{"kind":"textbox","id":"sh/pkfix0jy","slide":12,"text":"Aprobar primero\nUSD 2–4 mil","textPreview":"Aprobar primero | USD 2–4 mil","textChars":27,"textLines":2,"bbox":[78,125,620,170]}
+{"kind":"shape","id":"sh/oj6hovid","slide":12,"name":"rule","bbox":[82,330,110,6]}
+{"kind":"shape","id":"sh/bmh0zq14","slide":12,"name":"bullet-0","bbox":[82,387,9,9]}
+{"kind":"textbox","id":"sh/alozq50j","slide":12,"name":"bullet-text-0","text":"RFQ técnico comparable","textPreview":"RFQ técnico comparable","textChars":22,"textLines":1,"bbox":[108,380,464,48]}
+{"kind":"shape","id":"sh/x8zi10ju","slide":12,"name":"bullet-1","bbox":[82,439,9,9]}
+{"kind":"textbox","id":"sh/c7qhsvip","slide":12,"name":"bullet-text-1","text":"Clasificación NCM escrita","textPreview":"Clasificación NCM escrita","textChars":25,"textLines":1,"bbox":[108,432,464,48]}
+{"kind":"shape","id":"sh/zah03a10","slide":12,"name":"bullet-2","bbox":[82,491,9,9]}
+{"kind":"textbox","id":"sh/y98zu50f","slide":12,"name":"bullet-text-2","text":"Layout CAD","textPreview":"Layout CAD","textChars":10,"textLines":1,"bbox":[108,484,464,48]}
+{"kind":"shape","id":"sh/s3qx0red","slide":12,"name":"bullet-3","bbox":[82,543,9,9]}
+{"kind":"textbox","id":"sh/t4zy9wvi","slide":12,"name":"bullet-text-3","text":"Prueba / alquiler de PA","textPreview":"Prueba / alquiler de PA","textChars":23,"textLines":1,"bbox":[108,536,464,48]}
+{"kind":"shape","id":"sh/618fyhw7","slide":12,"name":"ask-block","bbox":[760,95,400,500]}
+{"kind":"textbox","id":"sh/r2hg7mds","slide":12,"text":"NO","textPreview":"NO","textChars":2,"textLines":1,"bbox":[815,145,290,80]}
+{"kind":"textbox","id":"sh/grax4be9","slide":12,"text":"autorizar todavía\nel CAPEX completo","textPreview":"autorizar todavía | el CAPEX completo","textChars":35,"textLines":2,"bbox":[805,245,310,105]}
+{"kind":"shape","id":"sh/1sjydwvu","slide":12,"name":"rule","bbox":[855,390,210,3]}
+{"kind":"textbox","id":"sh/e5sf21w3","slide":12,"text":"El proyecto es viable.\nEl donor todavía no está probado.","textPreview":"El proyecto es viable. | El donor todavía no está probado.","textChars":56,"textLines":2,"bbox":[820,430,280,90]}
+{"kind":"textbox","id":"sh/fq1gb6do","slide":12,"text":"Tatú Sonoro · prefactibilidad","textPreview":"Tatú Sonoro · prefactibilidad","textChars":29,"textLines":1,"bbox":[80,670,380,18]}
+{"kind":"notes","id":"nt/be1ybs","slide":12,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n[/Sources]"}

@@ -1,0 +1,1814 @@
+IDEA + ANTEPROYECTO + PRESUPUESTO
+
+Tatú Sonoro
+Un organismo musical móvil para barro, pasto y noche
+Primer Art Car / vehículo mutante · Argentina · fase de prefactibilidad
+
+Dirección visual recomendada: la criatura domina; el chasis desaparece.
+
+Decisión ejecutiva
+Avanzar a RFQ con Tatú Sonoro sobre rolling chassis 4WD convencional, no autónomo. No comprar
+todavía ninguno de los tres productos enviados: hoy ninguno prueba masa, frenado y potencia
+suficientes.
+
+Versión 0.2 · 13 de agosto de 2026 · Argentina
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Control del documento
+Campo
+
+Definición
+
+Estado
+Configuración base
+Caso de cálculo
+
+Prefactibilidad / anteproyecto. Sirve para decidir, pedir ofertas y planificar ensayos.
+Piloto + DJ + 3 pasajeros; 500 kg útiles; 5 km; 5 km/h normal; 10 km/h máximo.
+1.600 kg redondeados; operación proyectada 1.635 kg; GVWR requerido ≥1.700
+kg.
+Tatú Sonoro; Chakana Resonante como alternativa casi equivalente; Coatí
+Nocturno como reserva.
+Clase 4 / prefactibilidad: rango orientativo, objetivo −20% / +30% hasta recibir
+cotizaciones.
+No es plano constructivo, homologación, cálculo firmado ni autorización para vía
+pública/evento.
+
+Concepto
+Precisión de costo
+Límites
+
+Supuesto que ordena todo
+La carga útil de 500 kg se interpreta como personas y pertenencias, además de la carrocería, audio y
+baterías. Si la intención era que los 500 kg incluyeran también esos sistemas, el proyecto puede bajar
+una categoría de chasis y costo.
+
+Contenido
+Bloque
+
+Qué resuelve
+
+1–4
+5–10
+11–15
+16–18
+Anexos A–E
+
+Decisión, requisitos, criterios de evento y conceptos visuales.
+Arquitectura, paquete, mecánica, energía, audio/DJ y experiencia.
+Seguridad, productos China, importación, presupuesto y planificación.
+Pruebas, operación, riesgos y decisiones abiertas.
+RFQ bilingüe, FAT/SAT, fórmulas, fuentes y prompts visuales.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 2
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+1. Resumen ejecutivo
+La prefactibilidad es positiva, pero sólo para un donor más serio que los
+componentes originalmente considerados.
+Recomendación
+Construir el Tatú Sonoro como envolvente modular alrededor de un rolling chassis 4WD de baja
+velocidad, con dirección mecánica asistida, frenos hidráulicos en las cuatro ruedas, freno de
+estacionamiento mecánico, 12 kW continuos, 18 kW pico y batería LFP nominal de 15 kWh.
+
+Variable
+
+Base de anteproyecto
+
+Criterio de aceptación
+
+Misión
+Terreno
+
+5 km por carga
+Pasto, rastrojo, barro y pendientes
+
+Velocidad
+Capacidad
+Masa
+Audio
+CAPEX
+
+5 km/h normal; 8 km/h traslado
+Piloto + DJ + 3 pasajeros
+Tara 1.135 kg; operativa 1.635 kg
+2×12" + sub 15"; 1,8 kW RMS
+USD 65.900 netos / USD 76.500 caja
+
+Final ≥20% SOC con audio y luces activos
+10% continua; 15% corta; lateral operativa
+≤8°
+Limitador duro 10 km/h
+Todos contenidos; carga total ≤500 kg
+GVWR ≥1.700 kg y pesaje por rueda
+≤1,0 kW promedio móvil; DSP bloqueado
+Techos: 68.000 neto / 80.000 caja
+
+La decisión no depende de encontrar “el chasis más barato”; depende de comprobar una cadena
+completa: masa real → carga estructural → tracción → frenado → energía → estabilidad → evacuación
+→ políticas del evento.
+
+Por qué no convienen las orugas para el primer proyecto
+Añaden masa, transporte, consumo y mantenimiento, justo donde el proyecto ya incorpora audio,
+inversor y piel escultórica.
+Los comparables públicos no demuestran freno de servicio y estacionamiento aptos para pasajeros.
+La ventaja en barro no compensa la mayor complejidad de integración y rescate para una misión de
+sólo 5 km.
+
+2. Necesidad, alcance y criterios de diseño
+El vehículo debe ser simultáneamente transporte lento, escenario musical,
+escultura nocturna y sistema seguro.
+
+Requisitos confirmados
+Operar en predios privados sobre pasto, rastrojo, barro y desniveles; no se diseña para circular por
+vía pública.
+Mover aproximadamente 500 kg de carga útil durante hasta 5 km por carga.
+Circular entre 5 y 10 km/h; con público cercano, barro o irregularidades, el modo normal es 5 km/h.
+Llevar sistema de sonido y un puesto real de DJ, funcional durante la marcha y estacionado.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 3
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Parecerse lo menos posible a un vehículo: sin capot, parabrisas, parrilla, guardabarros, cabina o
+jaula visualmente reconocibles.
+Ser pequeño y realizable como primer proyecto, con módulos reparables y repuestos comprables.
+
+Interpretación técnica
+Necesidad
+
+Traducción verificable
+
+Trade-off
+
+No vehicular
+
+La silueta, la iluminación y la anatomía dominan a 20 m;
+ruedas y piloto quedan subordinados.
+
+No ocultar recorrido de rueda,
+ventilación, visión ni rescate.
+
+DJ móvil
+
+Semi-sentado, cinturón, pies retenidos, consola fija y mute al
+alcance.
+
+De pie sólo estacionado.
+
+Barro
+
+4WD, neumático de baja presión, despeje ≥220 mm del arte y
+80 mm extra de barro.
+
+No usar faldones textiles.
+
+Autonomía
+
+15 kWh nominal y deslastre de audio a 25% SOC.
+
+El caso extremo consume casi
+toda la reserva útil.
+
+Primer proyecto
+
+Dirección mecánica; componentes industriales; arte
+desmontable.
+
+Se descartan steer-by-wire y
+autonomía.
+
+Fuera de alcance en esta fase
+Homologación vial, matriculación o conducción en calles abiertas.
+Ingeniería de detalle de soldaduras, FEA, planos de taller o validación normativa final.
+PA de categoría DMZ/club, subwoofers dobles de 18 pulgadas o plataforma elevadora para silla de
+ruedas.
+Conducción remota, autónoma o steer-by-wire sin respaldo mecánico.
+
+3. Criterios de eventos y marco argentino
+Las licencias internas de evento no convierten al vehículo en legal para vía
+pública.
+Ámbito
+
+Criterios relevantes
+
+Implicación de diseño
+
+Burning Man
+
+Mutación radical; 5 mph; iluminación
+frontal/perimetral; acceso y barandas; política
+sonora por horario/zona.
+
+La base no puede seguir reconocible.
+Limitar a 8 km/h para ese evento y orientar
+PA.
+
+AfrikaBurn
+
+10 km/h; registro e inspección; reglas de sonido y
+Sound Officer; 95 dB en pista según política
+publicada.
+
+Preset de 95 dB y responsable nombrado.
+
+Nowhere
+
+10 km/h; frenos/handbrake; luces;
+asientos/barandas; spotter; declarar sonido.
+
+Diseñar tripulación con spotters y
+Artomobile Pass.
+
+Argentina
+
+LCM/LCA aplican al marco de vía pública según
+categoría; importación depende de NCM e
+intervenciones.
+
+Operar en predio privado y transportar en
+trailer; consultar
+despachante/INTI/asegurador.
+
+Regla operativa común
+El límite técnico de 10 km/h no es la velocidad objetivo. Con público, noche, barro o puntos ciegos se
+circula a 5 km/h con spotters. Las reglas del año y del evento específico se verifican antes de aplicar.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 4
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Sonido
+El diseño evita una corona omnidireccional. Los tops quedan detrás de escamas perforadas y pueden
+orientarse hacia abajo/lateralmente. El DSP guarda presets bloqueados: tránsito/mute, performance local
+y evento. Un sonómetro registra LAeq,15 min; el operador de sonido tiene autoridad para bajar o apagar.
+Modo
+
+Nivel/energía de diseño
+
+Condición
+
+Movimiento
+
+≤92 dBA a 5 m; ≤1,0 kW promedio de
+audio
+Hasta el límite autorizado; referencia de
+salud 100 dB LAeq,15 min
+Mute automático o manual inmediato
+
+Bocina/radio audibles; mute piloto
+
+Estacionado
+Acceso/emergencia
+
+Zona, horario y orientación aprobados
+Órdenes de tripulación prevalecen
+
+4. Direcciones creativas
+Tres objetos que revelan tarde que son vehículos. Los renders son intención
+visual, no promesa de geometría construible.
+
+4.1 Tatú Sonoro — recomendado
+
+Tatú Sonoro: DJ en la madriguera central, piloto en la cabeza y audio dentro de las escamas.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 5
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Aspecto
+
+Resolución
+
+Lectura
+DJ
+Piloto
+Audio
+Mantenimiento
+
+Una criatura baja, continua y segmentada; no una plataforma con decoración.
+Madriguera central bajo el punto alto; consola 900–1.000 × 450–550 mm.
+Oculto en la cabeza detrás de malla/policarbonato oscuro; visión directa obligatoria.
+Tops en hombros y sub central bajo; aperturas perforadas y orientadas.
+Cada banda es un módulo numerado; registros para ruedas, batería, frenos y rescate.
+
+4.2 Chakana Resonante — alternativa liviana
+
+Chakana Resonante: pabellón escalonado, DJ central y ruedas casi ausentes de la lectura.
+
+Es prácticamente un empate técnico: distribuye muy bien el audio, se fabrica en paneles planos y viaja
+en flat-pack. Requiere co-diseño remunerado con una persona/artista andino para evitar uso superficial o
+impropio de símbolos.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 6
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+4.3 Coatí Nocturno — reserva estética
+
+Coatí Nocturno: criatura completa; la cola funciona como canopy y no como torre de sonido.
+
+Tiene gran carácter, pero la cola agrega superficie al viento, masa alta y tiempo de montaje. Es la opción
+con mayor riesgo de volver a leerse como buggy caricaturizado.
+
+Matriz actualizada después de incorporar DJ y mutación radical.
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 7
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+5. Concepto seleccionado y lenguaje formal
+Tatú por fuera; lógica de módulos planos tipo Chakana por dentro.
+
+Distribución funcional preliminar del Tatú Sonoro.
+Parámetro
+
+Objetivo
+
+Envolvente
+Piso
+Trocha / batalla
+Despeje
+
+3,85–3,95 m largo × 1,90–1,95 m ancho × ≤2,40 m alto
+450–550 mm sobre suelo
+Trocha ≥1,50 m; batalla objetivo 2,1–2,4 m
+Chasis ≥200 mm; arte ≥220 mm; 80 mm extra respecto a envolvente dinámica de
+rueda
+Principal derecho ≥900 mm entre ejes; egreso secundario izquierdo/trasero ≥750 mm
+1.000–1.100 mm integradas al caparazón; puertas de cierre positivo
+Cargado ≤0,75 m; diferencia izquierda/derecha ≤10%
+
+Acceso
+Barandas
+CG
+
+Cómo ocultar sin crear peligros
+Neumáticos y suspensión en negro mate, sin iluminación artística.
+El tercio superior de cada rueda queda detrás de una escama rígida; la parte inferior permanece
+abierta para barro y escape.
+A máxima dirección y compresión queda un mínimo de 75 mm, más 80 mm de reserva por
+barro/rastrojo en la zona crítica.
+La cabeza y los ojos dominan la frontal; cámaras suplementan, nunca reemplazan, visión directa.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 8
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+E-stops, puntos de remolque y paneles de inspección son discretos pero identificables por la
+tripulación.
+
+Prueba de mutación
+Fotografiar el prototipo de frente, perfil y tres cuartos a 20 m, de día y de noche. Si una persona
+neutral lo llama “UTV”, “golf cart” o “buggy” antes que “tatú/escultura”, el arte todavía no está
+terminado.
+
+6. Arquitectura del sistema
+Separar funciones vitales, movimiento y espectáculo reduce el número de fallas
+comunes.
+
+Arquitectura eléctrica y funcional preliminar.
+
+Estados operativos
+Estado
+
+Tracción
+
+DJ/audio
+
+Condición de transición
+
+OFF / servicio
+
+Aislada
+
+Aislado
+
+Seccionadores abiertos; calzas
+
+Acceso
+
+Inhibida
+
+Mute
+
+Freno de estacionamiento + puertas
+habilitadas
+
+Movimiento
+
+5 km/h normal
+
+Preset móvil
+
+Todos contenidos; puertas cerradas;
+spotters
+
+Performance
+estacionaria
+
+Torque cero
+
+Preset autorizado
+
+Neutro, parking, calzas, zona definida
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 9
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Estado
+
+Tracción
+
+DJ/audio
+
+Condición de transición
+
+Emergencia
+
+Contactor tracción
+abierto
+
+Mute/corte independiente
+
+Luces y radio continúan
+
+Interlocks mínimos
+Cualquier puerta abierta inhibe tracción; la apertura interior nunca requiere llave.
+E-stop de piloto y dos exteriores corta torque en ≤0,5 s, sin apagar luz de seguridad.
+Pérdida de CAN, pedal implausible o retorno de acelerador fallido ordena torque cero.
+Reversa sólo si la velocidad es <1 km/h; aviso acústico/visual independiente del PA.
+SOC ≤25%, subtensión o sobretemperatura deslastra audio antes de afectar conducción.
+
+7. Masa, carga y estabilidad
+La masa real del donor es el primer dato de compra, no un detalle que pueda
+corregirse al final.
+
+Presupuesto de masa y carga útil.
+Subsistema
+
+kg
+
+Altura CG estimada
+
+Rolling chassis
+Batería 15 kWh
+Piso, estructura y asientos
+Caparazón
+PA y amplificación
+
+550
+135
+170
+85
+105
+
+0,42 m
+0,25 m
+0,65 m
+1,20 m
+0,65 m
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 10
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Subsistema
+
+kg
+
+Altura CG estimada
+
+DJ, inversor, rack/cables
+Luces y seguridad
+Tara proyectada
+Carga útil
+Masa operativa
+
+55
+35
+1.135
+500
+1.635
+
+0,55 m
+0,80 m
+≈0,49 m
+≈0,85 m
+≈0,60 m
+
+La estimación de CG es favorable porque batería, subwoofer e inversor van bajo el nivel del asiento. Aun
+así, se verificará mediante pesaje por rueda y plataforma inclinada; el valor límite del anteproyecto es
+0,75 m cargado.
+
+Carga útil nominal
+Componente
+
+kg
+
+Piloto
+DJ
+3 pasajeros
+Pertenencias / variación
+Total
+
+85
+85
+255
+75
+500
+
+Regla de aforo
+Cada 85 kg de exceso de tara elimina una plaza. El placard definitivo se basa en el pesaje final, nunca
+en la cantidad de asientos disponibles.
+
+8. Mecánica: chasis, dirección, suspensión y frenos
+Convencional, mantenible y verificable: la creatividad va en la envolvente, no en
+sustituir funciones de seguridad probadas.
+Sistema
+
+Especificación de RFQ
+
+Razón
+
+Estructura
+
+GVWR ≥1.700 kg; carga sobre rolling chassis ≥1.100 kg;
+placas y cálculo del proveedor
+
+Arte + equipos + 500 kg útiles
+
+Tracción
+
+4WD; 12 kW continuos; ≥18 kW pico; curvas
+torque/corriente/temperatura
+
+Barro + 10% y margen
+
+Dirección
+
+Mecánica con EPS; radio exterior ≤4,5 m
+
+Fail-safe y maniobra lenta
+
+Frenos
+
+Hidráulicos 4 ruedas; dos circuitos preferidos; parking
+mecánico
+
+Fricción independiente de
+regeneración
+
+Neumáticos
+
+Baja presión, banda abierta; índice de carga documentado
+
+Pasto húmedo y baja
+compactación
+
+Despeje
+
+≥200 mm chasis; protecciones de batería/motores
+
+Rastrojo, roderas y barro
+
+Recuperación
+
+Dos puntos estructurales, carga objetivo ≥2× GVWR
+
+Remolque controlado
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 11
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Orden de magnitud estructural
+Como punto de partida, no como plano: dos largueros de acero 100×50×4 mm y travesaños 50×50×3
+mm cada 400–500 mm. La ingeniería de detalle debe usar las cargas reales de suspensión y unión del
+donor, verificar fatiga, soldaduras y anclajes de asientos/barandas. Las uniones del arte no participan de
+la seguridad de ocupantes.
+
+Frenado
+Caso a 10 km/h
+
+Desaceleración
+
+Distancia física
+
++1 s de percepción
+
+Seco objetivo
+Mojado mínimo
+
+0,35 g
+0,25 g
+
+1,12 m
+1,57 m
+
+3,90 m
+4,35 m
+
+A 1.600 kg, 0,35 g implica aproximadamente 1,54 kN·m de torque total en ruedas de radio 0,28 m. La
+regeneración puede colaborar, pero nunca reemplazar el freno por fricción. El parking debe sostener
+20% en ambos sentidos con la batería desconectada.
+
+Estabilidad
+Con trocha 1,50 m y CG límite 0,75 m, el umbral geométrico ideal de vuelco es 1,0 g; no contempla
+pozos, deformación del neumático ni movimiento humano. Por eso se limita la pendiente lateral operativa
+a 8°, el radio mínimo a 10 km/h a 4–4,5 m y se ensaya estáticamente con tether antes de llevar
+personas.
+
+9. Potencia, tracción y autonomía
+La batería de 15 kWh nace del peor caso combinado, no de la distancia sola.
+
+Modelo
+Para una estimación conservadora a baja velocidad: F = m·g·(Crr + i) y Pel = F·v/η. Se usa m = 1.600 kg,
+radio de rueda 0,28 m y eficiencia total η = 0,75. La aerodinámica es despreciable a 5–10 km/h; el
+terreno domina.
+Escenario
+
+Fuerza
+
+Torque rueda total
+
+kW @5
+
+kW @8
+
+Firme plano, Crr 0,04
+
+628 N
+
+176 N·m
+
+1,16
+
+1,86
+
+Húmedo plano, Crr 0,08
+
+1.256 N
+
+352 N·m
+
+2,33
+
+3,72
+
+Húmedo +10%
+
+2.825 N
+
+791 N·m
+
+5,23
+
+8,37
+
+Húmedo +15%
+
+3.610 N
+
+1.011 N·m
+
+6,69
+
+10,70
+
+Barro Crr 0,15 +10%
+
+3.924 N
+
+1.099 N·m
+
+7,27
+
+11,63
+
+La especificación de 12 kW continuos se refiere a tracción. Los auxiliares tienen su rama eléctrica y
+pueden deslastrarse. En el caso severo, no se promete 8–10 km/h: se opera a 5 km/h y se aborta si hay
+patinamiento, temperatura o consumo anormal.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 12
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Ventaja del 4WD
+Con µ = 0,25, el límite ideal 4WD es 3.924 N, suficiente apenas para el caso barro +10%. Si sólo 55% del
+peso carga el eje motriz, el límite 2WD cae a 2.158 N: después de rodadura húmeda queda apenas
+~5,8% de pendiente. Esta comparación descarta el eje trasero de 2 kW como base del proyecto.
+
+Balance energético de la misión combinada.
+
+Límite físico
+Quedan sólo ~1,5 kWh de margen en barro +10% con audio y luces completos. La estrategia no es
+instalar un PA más grande: es medir consumo real, aplicar el preset móvil y definir un punto de retorno
+por SOC.
+
+10. Audio, DJ, iluminación e interacción
+El sonido es un sistema con límites, no una colección de watts pico.
+Elemento
+
+Base recomendada
+
+Masa objetivo
+
+Tops
+
+2×12" pasivos, ≥500 W AES/RMS cada uno
+
+≤28 kg total
+
+Sub
+
+1×15" pasivo, ≥800 W AES/RMS
+
+≤30 kg
+
+Amplificación
+
+Clase D con DSP, 2–3 kW totales
+
+≤15 kg
+
+Inversor
+
+Senoidal 3 kVA continuo, pico ≥6 kVA
+
+≤18 kg
+
+DJ
+
+Controlador 2 canales + laptop + backup cableado
+
+≤15 kg
+
+Rack/cables/soportes
+
+IP54, RCD, ventilación y tethers
+
+≤42 kg
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 13
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Elemento
+
+Base recomendada
+
+Masa objetivo
+
+Total audio/DJ
+
+PA instalado 1,8 kW RMS
+
+≤160 kg con
+inversor/rack
+
+Puesto DJ
+Superficie 900–1.000 × 450–550 mm, bandeja amortiguada, tapa transparente contra polvo/lluvia y
+cables cautivos.
+En movimiento: percha marina ajustable, cinturón, apoyo de pies, consola inclinada y manos dentro
+de la baranda.
+Estacionado: percha replegable; el DJ puede pararse sólo con torque cero, freno, calzas y perímetro
+cerrado.
+Piloto y DJ nunca comparten mandos. El DJ no bloquea visión, acceso principal ni egreso
+secundario.
+
+Controles de audio
+DSP con contraseña y presets de tránsito, performance y mute.
+Mute físico al alcance del piloto; micrófono cableado para avisos; radio/bocina prioritaria.
+Medición en 1, 5 y 10 m, ocho direcciones; registro LAeq,15 min.
+Prueba térmica de dos horas con música real; consumo AC promedio móvil ≤1,0 kW.
+Tops rígidos con tether independiente; sub sobre aisladores cautivos con topes mecánicos.
+
+Iluminación
+Capa
+
+Función
+
+Independencia
+
+Seguridad
+
+Blanco frontal, rojo posterior, ámbar lateral, perímetro bajo y
+reversa
+Bandas cyan/ámbar que recorren escamas; ojos y
+respiración
+Luz blanca de acceso, tablero, extintor y puntos de rescate
+
+Rama 12/24 V vital
+
+Escultura
+Trabajo
+
+Puede apagarse por SOC/falla
+Disponible en emergencia
+
+11. Ocupantes, accesibilidad y experiencia
+Cinco personas totales: piloto, DJ y tres pasajeros. Nadie de pie durante la
+marcha.
+Elemento
+
+Criterio
+
+Asientos
+
+Contorneados, fijación estructural; cinturones según evaluación de riesgo y dinámica de
+baja velocidad.
+Objetivo preliminar 10 kN por punto de asiento/cinturón; verificar con ingeniería final.
+1.000–1.100 mm; carga lateral objetivo 1 kN; sin aristas ni huecos de atrapamiento.
+Cierre mecánico positivo, sensor de inhibición y apertura interior sin llave.
+Principal ≥900 mm y secundario ≥750 mm; evacuación completa ≤15 s.
+
+Anclajes
+Barandas
+Puertas
+Egresos
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 14
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Elemento
+
+Criterio
+
+Escalón
+Silla de ruedas
+
+Altura objetivo ≤300 mm o estribo intermedio antideslizante y agarraderas.
+Plaza convertible central con cuatro anclajes y cinturón; rampa asistida 2,4–3 m si la masa
+lo permite.
+
+Una plataforma elevadora pesa aproximadamente 70–100 kg y no entra en el presupuesto base sin
+reducir otra masa o aumentar GVWR. El anteproyecto reserva el espacio y los puntos; la decisión se
+toma con la comunidad usuaria antes de ingeniería de detalle.
+
+Procedimiento de embarque
+1. Detener, seleccionar neutro, aplicar parking, calzar si corresponde e inhibir tracción.
+2. Silenciar audio para que las instrucciones sean audibles; un host abre la puerta principal.
+3. Ubicar primero a quien necesite más asistencia en la plaza central; asignar asientos restantes.
+4. Cerrar y verificar puertas; confirmar cinturones, manos/pies dentro y corredor libre.
+5. Piloto confirma por radio con spotters y recién entonces habilita movimiento.
+
+12. Seguridad y análisis de riesgos
+Los riesgos más altos se cierran antes de sentar personas, no con instrucciones
+posteriores.
+Riesgo
+
+RPN inicial
+
+Control obligatorio
+
+Gate
+
+GVWR/masa indefinidos
+
+350
+
+Certificado, pesaje y cálculo de carga
+
+Antes de PO
+
+Arte atrapa rueda/barro
+
+225
+
+Full bump/steer, 80 mm extra, registro
+
+Antes de dinámico
+
+Freno insuficiente
+
+200
+
+4 discos, parking mecánico y ensayo cargado
+
+Antes de personas
+
+Punto ciego
+
+200
+
+Visión directa, cámaras y spotters
+
+Siempre
+
+Batería sin UN38.3
+
+192
+
+Test summary del modelo exacto
+
+Antes del saldo
+
+Parlante/panel suelto
+
+180
+
+Montaje 5g, tether, testigo
+
+FAT/diario
+
+Vuelco lateral
+
+180
+
+CG, 8°, prueba tethered
+
+Antes de personas
+
+Audio enmascara avisos
+
+160
+
+Mute y comunicaciones prioritarias
+
+SAT
+
+230 V mojado
+
+150
+
+Rack IP54, RCD 30 mA y prueba
+
+FAT
+
+No-go inmediato
+Freno regenerativo como único freno o parking dependiente de energía.
+Carga, GVWR, masa, índice de neumáticos o torque sin documentación verificable.
+Batería sin test summary UN38.3 del modelo exacto, SDS y manual BMS.
+Dirección/propulsión inalámbrica como único canal, o pérdida de comunicación que no vaya a torque
+cero.
+Tara >1.200 kg, CG cargado >0,75 m o masa final >GVWR.
+Una sola salida, DJ de pie, pasajeros de pie o rueda encerrada sin acceso/holgura.
+Misión de 5 km que termine debajo de 20% SOC o produzca sobretemperatura, reset o fade de
+frenos.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 15
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Incendio y alta tensión
+El plan de emergencia se redacta con el fabricante de batería y bomberos/servicio del predio. Debe
+incluir desconexión, aislamiento del área, llamada de emergencia, exposición a humo y vigilancia
+posterior. Un extintor portátil puede controlar fuegos secundarios; no se presenta como método
+garantizado para detener una fuga térmica de gran batería.
+
+13. Evaluación de alternativas China
+Los precios vistos son disparadores de RFQ; no son evidencia de aptitud.
+Producto
+
+Dato visible
+
+Problema
+
+Decisión
+
+4 ruedas wire-control
+
+≈USD 530,40; MOQ 2
+
+No demuestra carga, batería, frenos, 4WD real
+ni masa.
+
+NO COMPRAR sin
+RFQ/FAT
+
+Base con orugas
+
+Ficha exacta no verificable
+
+Freno, estabilidad, peso, pasajero y repuestos
+desconocidos.
+
+Reserva
+experimental
+
+Eje 100 cm / 2 kW
+
+USD 272–290; MOQ 2;
+1:11,28; claim 900 kg
+
+2 kW es insuficiente; 900 kg parece carga de
+eje, no payload.
+
+DESCARTAR
+
+UTV 72 V / 10 kW
+comparable
+
+≈USD 6.900–10.300; tara
+citada 880 kg
+
+Potencia plausible, pero masa deja poco
+margen para arte/audio + 500 kg.
+
+Sólo si GVWR
+documentado ≥1,7 t
+
+Oruga comparable X2
+
+1.000 kg claim; 7,5 kW; 7
+km/h; envío 920 kg
+
+Logística pesada y frenos no confirmados.
+
+No base del primer
+proyecto
+
+Hallazgo de mercado
+No se encontró una publicación que, por sí sola, pruebe simultáneamente 4WD, 12 kW continuos,
+GVWR ≥1,7 t, frenos 4 ruedas, parking mecánico y masa compatible. El próximo paso no es pagar: es
+emitir el RFQ del Anexo A a 6–10 proveedores.
+
+Estrategia de compra
+Importar rolling chassis, batería/controladores integrados y repuestos críticos como un solo sistema
+probado.
+Fabricar estructura de ocupantes y piel artística en Argentina, donde las modificaciones y
+reparaciones serán frecuentes.
+Comprar o alquilar PA/DJ local para escuchar, medir consumo y asegurar repuestos rápidos.
+Contratar inspección preembarque independiente; retener saldo hasta recibir documentos y video
+FAT.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 16
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+14. Importación a Argentina
+La clasificación aduanera domina el costo. Debe resolverse por escrito antes de
+la orden de compra.
+Posible NCM
+
+Uso posible
+
+Advertencia
+
+8703.80
+
+Vehículo eléctrico para personas
+
+Puede activar requisitos distintos a un vehículo
+industrial.
+
+8704.60
+
+Vehículo eléctrico para carga
+
+Depende de configuración y uso principal.
+
+8709.11
+
+Carro industrial eléctrico
+
+No asumir que un art car encaja automáticamente.
+
+8706.00
+
+Chasis con motor
+
+Partes desmontadas pueden tomar carácter esencial de
+vehículo completo.
+
+8708.50
+
+Ejes motrices
+
+Para componentes sueltos.
+
+8507.60
+
+Batería de ion-litio/LFP
+
+DG, UN38.3, SDS y embalaje específico.
+
+Caso base de caja
+Concepto
+
+USD
+
+FOB: donor + configuración + repuestos + inspección
+Flete/origen/seguro/DG hasta CIF
+CIF
+Derecho 18% supuesto
+Tasa estadística 3%
+Terminal/despachante/inland
+Importado puesto en taller · neto
+IVA/percepciones estimadas · caja recuperable
+Importado puesto en taller · caja
+
+14.800
+2.800
+17.600
+3.168
+528
+2.800
+24.096
+10.541
+34.637
+
+La tasa estadística del 3% se mantiene como supuesto a partir del Decreto 1140/2024. El derecho puede
+ser 0%, 14%, 18% o 35% según clasificación/origen/configuración. IVA y percepciones no se tratan
+automáticamente como costo: pueden ser créditos, pero requieren caja y análisis fiscal.
+
+Logística
+Para LCL desde China se presupuestan USD 2.800 hasta CIF en el caso base y USD 2.500–6.000 como
+rango integral de origen, flete, DG, seguro y destino, sujeto a volumen/peso. Un chasis pesado o no
+apilable puede volver conveniente un 20 ft. Las demoras portuarias no están dentro del rango y justifican
+prealerta documental.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 17
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+15. Presupuesto y decisión financiera
+El DJ y la mutación radical elevan el proyecto una categoría completa frente a un
+carrito decorado.
+Escenario
+
+CAPEX neto
+
+Caja
+
+Uso
+
+Económico
+
+≈USD 43.600
+
+≈USD 50.500
+
+Recomendado
+
+≈USD 65.900
+
+≈USD 76.500
+
+Estrés
+
+≈USD 93.600
+
+≈USD 109.300
+
+Orugas + DJ
+
+≈USD 63.800
+
+≈USD 70.300
+
+Voluntariado, PA menor, arancel
+moderado
+Conserva 500 kg útiles y peor caso
+energético
+Arancel 35%, mayor contratación y
+contingencia
+Costo alto pese a menor compra
+inicial
+
+Caja en pesos
+A USD/ARS 1.700, el punto recomendado requiere aproximadamente ARS 130 millones de caja. La
+banda de decisión USD 56–80 mil equivale a ARS 95–136 millones. Actualizar el tipo contractual antes
+de cada hito de pago.
+
+Composición del caso base
+Bloque
+
+USD base
+
+Importado puesto en taller
+Contingencia importada
+Fabricación e integración local
+Contingencia local
+CAPEX neto
+Tributos recuperables de caja
+Caja total
+
+24.096
+2.410
+32.850
+6.570
+65.926
+10.541
+76.467
+
+OPEX
+El caso base por evento local es aproximadamente USD 3.400, con rango USD 1.500–5.200: transporte,
+inspección/seguro, técnico/DJ, mantenimiento, limpieza, radios/EPP y contingencia. Almacenaje y
+preventivo anual agregan alrededor de USD 2.400 base.
+El archivo Excel adjunto mantiene supuestos, CAPEX, importación, masa/energía, matriz y FMEA con
+fórmulas editables. Es la fuente de verdad económica de este informe.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 18
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+16. Plan de ejecución y equipo
+Duración indicativa: 7–9 meses desde decisión hasta ensayo de misión, sin
+contar calendario de eventos.
+Fase
+
+Semanas
+
+Salida / gate
+
+0. Brief + reglas
+1. RFQ y concepto
+2. Selección donor
+3. Ingeniería local
+4. Fabricación China
+5. Flete y aduana
+6. Integración local
+7. SAT y misión
+8. Cierre/evento
+
+1–2
+2–6
+6–8
+7–14
+9–16
+16–23
+20–29
+29–32
+33–36
+
+Requisitos congelados, evento objetivo y dueño de riesgos
+6–10 ofertas comparables; masa/GVWR/documentos
+Inspección y contrato con retenciones
+Layout, interfaces, estructura, energía, egresos
+FAT remoto/independiente aprobado
+Donor recibido y control de ingreso
+Rolling test → estructura → audio → arte
+5 km, frenado, estabilidad, sonido y durabilidad
+Legajo as-built, entrenamiento e inspección
+
+Roles mínimos
+Rol
+
+Responsabilidad decisiva
+
+Responsable de proyecto
+Ingeniería mecánica
+Ingeniería eléctrica
+Diseño industrial/artista
+Ingeniería de sonido
+Piloto + safety lead
+Compras/despachante
+Soldador/fabricador
+Electricista matriculado
+Asesor cultural
+
+Presupuesto, alcance, gates y relación con evento/asegurador
+GVWR, estructura, dirección, frenos, ruedas, estabilidad y rescate
+LFP, protecciones, contactores, DC/DC, inversor, IP/EMC
+Mutación, módulos, piel, accesos y mantenibilidad
+Cobertura, DSP, energía, SPL, montaje y política
+HMI, puntos ciegos, procedimientos y criterios de abortar
+RFQ, Incoterm, NCM, documentación, inspección y repuestos
+WPS, trazabilidad, control dimensional y registros
+230 V, RCD, esquema neutro/tierra y pruebas
+Co-diseño si se usa Chakana o referencias andinas
+
+Secuencia de integración
+Probar primero el rolling chassis desnudo; después estructura/asientos; luego audio/energía;
+finalmente piel artística. Si se monta el arte antes de medir frenado, consumo y temperatura, se
+multiplican retrabajos.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 19
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+17. Plan de verificación y aceptación
+Ninguna prueba con personas hasta cerrar masa, frenos, dirección, alta tensión
+y anclajes.
+
+FAT del proveedor
+Prueba
+
+Condición de aceptación
+
+Identidad
+Masa
+Carga
+Tracción
+Frenos
+Controles
+Batería
+Documentación
+
+Placa, números de serie, BOM y fotos coinciden con contrato
+Pesaje total y por eje; margen compatible con 500 kg + integración
+Certificado/cálculo de GVWR y puntos de montaje
+Curva torque/corriente; prueba cargada; 12 kW continuos sin derating anormal
+Servicio 4 ruedas + parking mecánico; video en pendiente
+E-stop, pedal, reversa, pérdida de CAN y limitadores
+UN38.3, SDS, BMS, manual, celdas y charger exactos
+Esquemas, repuestos, software, parámetros y diagnóstico
+
+SAT local
+Ensayo
+
+Criterio
+
+Pesaje/CG
+
+Tara, cuatro ruedas, diferencia lateral ≤10%, CG ≤0,75 m
+
+Frenado
+
+Seco ≤1,5 m; mojado ≤2,0 m desde 10 km/h; 10 paradas sin fade
+
+Pendiente
+
+10% por 500 m ≥5 km/h; cinco arranques en 15%; parking 20%/5 min
+
+Descenso
+
+10% por 500 m ≤5 km/h; luego frenada de emergencia
+
+Estabilidad
+
+Giro cerrado; 8° operativo; prueba estática tethered 20° sin levantar rueda
+
+E-stop
+
+Torque cero ≤0,5 s; luces vitales permanecen
+
+Evacuación
+
+Cinco personas fuera ≤15 s por cualquiera de las rutas previstas
+
+Audio térmico
+
+2 h a preset límite; ≤1 kW promedio; conectores <60 °C; sin protección
+
+SPL
+
+Mapa 1/5/10 m en 8 direcciones; perfiles cumplen objetivo/evento
+
+Misión
+
+5 km a masa total, PA/luces/DJ activos, final ≥20% SOC
+
+Durabilidad
+
+25 km en cinco misiones; sin fisuras, aflojamientos, agua o resets
+
+Criterio de aborto
+Pérdida de dirección/freno, humo/olor anormal, daño de neumático o contacto arte–rueda.
+Temperatura fuera de límites de batería/controlador/motor/rack, o diferencia de celdas >10 °C.
+Reset de CAN/BMS/inversor, contactor que abre, aislamiento bajo o disparo RCD.
+SOC cae más rápido que el corredor aprobado o no permite retorno con 20% final.
+Fijación/testigo movido, nueva fisura, ruido estructural o vibración resonante.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 20
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+18. Operación, mantenimiento y decisiones
+abiertas
+Un buen art car se diseña también para parar, recuperar, limpiar y volver a
+inspeccionar.
+
+Tripulación
+Rol operativo
+
+Cantidad
+
+Función
+
+Piloto
+DJ
+Host
+Spotters
+Safety/sound officer
+
+1
+1
+1
+2
+1
+
+Conducción, decisiones de abortar, mute y E-stop
+Música, nivel dentro del preset y corte de entretenimiento
+Acceso, puertas, ocupantes y comunicación interior
+Frente/lateral y cola; puntos ciegos; ruta peatonal
+SPL, entorno, registro y autoridad de apagado
+
+Chequeo diario
+Presiones, cortes y barro; giro completo y recorrido libre de ruedas.
+Pérdidas de freno, pedal, parking, dirección y fijaciones de suspensión.
+SOC, temperaturas, errores BMS, aislamiento, cierres de rack y prueba RCD según plan.
+E-stops, llave, neutral, reversa, luces 360°, bocina, radios y cámaras.
+Puertas, barandas, asientos, cinturones, tethers, testigos de pintura y paneles.
+Mute, presets DSP y medición SPL; extintores, botiquín, calzas y recuperación.
+
+Decisiones que faltan
+Decisión
+
+Fecha límite
+
+Quién decide
+
+Evento objetivo y reglas/año
+
+Antes de RFQ final
+
+Proyecto + safety
+
+500 kg: útiles o total agregado
+
+Inmediato
+
+Promotor
+
+Accesibilidad: rampa o plataforma
+
+Antes de layout
+
+Promotor + comunidad usuaria
+
+Compra vs alquiler de PA
+
+Antes de CAPEX
+
+Sonido + finanzas
+
+Donor exacto y NCM
+
+Antes de PO
+
+Mecánica + despachante
+
+Tatú final y asesoría cultural
+
+Antes de detalle artístico
+
+Dirección creativa
+
+Seguro, límites de viento y predio
+
+Antes de pruebas
+públicas
+
+Safety + asegurador
+
+Próxima autorización recomendada
+Aprobar USD 2.000–4.000 para RFQ técnico, clasificación aduanera escrita, layout CAD, visita de
+fabricación y prueba/alquiler de PA. No autorizar todavía el CAPEX completo ni un anticipo de chasis.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 21
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+A. RFQ bilingüe para rolling chassis
+Enviar la misma tabla a todos los proveedores y exigir respuesta celda por celda.
+Tema / Topic
+
+Requisito / Requirement
+
+Uso / Duty
+
+Private-event mutant vehicle; grass, stubble, mud; slopes; passenger carrying; no public-road
+claim.
+
+Masa / Rating
+
+State bare rolling mass, curb mass, GVWR, axle ratings and structural payload. Required GVWR
+≥1,700 kg.
+
+Tracción / Drive
+
+True 4WD; continuous traction power ≥12 kW; peak ≥18 kW; torque/current/thermal curves.
+
+Velocidad / Speed
+
+Programmable 5 and 8 km/h modes; hard 10 km/h limit; reverse interlock below 1 km/h.
+
+Pendiente / Grade
+
+10% continuous at full GVWR and ≥5 km/h; five starts on 15%; parking on 20%.
+
+Dirección / Steering
+
+Mechanical steering linkage with EPS; external turning radius ≤4.5 m; no wireless-only steer-bywire.
+
+Frenos / Brakes
+
+Hydraulic friction brakes on four wheels; state circuits/caliper/disc; mechanical parking brake
+independent of battery.
+
+Ruedas / Tires
+
+Low-pressure off-road tires; load/speed index; rim/PCD; full steer/bump envelope.
+
+Despeje / Clearance
+
+Ground clearance ≥200 mm; battery/controller/motor protection; wading/splash limits.
+
+Batería / Battery
+
+LFP around 15 kWh; exact cells/BMS; continuous/peak current; UN38.3 test summary and SDS.
+
+Eléctrico / Electrical
+
+Main fuse, service disconnect, precharge, contactor, DC/DC, charger, schematics and diagnostic
+software.
+
+Seguridad / Safety
+
+Driver and two external E-stops; traction torque zero ≤0.5 s while safety lights remain on.
+
+Ambiente / Environment
+
+Operating temperature, IP ratings, mud/dust limitations, connector series and corrosion
+protection.
+
+Interfaces
+
+3D STEP + 2D drawings; mounting holes and permitted loads; rescue/tow points; center of
+gravity.
+
+FAT
+
+Full-GVWR videos and data: speed, grade, braking, parking, temperature, current and fault tests.
+
+Commercial
+
+MOQ 1; FOB and CIF Buenos Aires; lead time; payment milestones; warranty; commissioning
+support.
+
+Repuestos / Spares
+
+Controller, BMS, sensors, brake pads, bearings, tie rods, CV joints/axles and connectors for two
+years.
+
+Texto de apertura
+ES
+Solicitamos cotización para un rolling chassis eléctrico 4WD de baja velocidad destinado
+exclusivamente a un vehículo artístico en predios privados. No aceptaremos valores de carga o
+potencia sin definición de masa/GVWR, método de ensayo y documentación del modelo exacto.
+Complete cada punto y marque cualquier excepción.
+
+EN
+Please quote a low-speed electric 4WD rolling chassis for an art vehicle used exclusively on private
+event sites. Load and power claims without bare mass/GVWR, test method and exact-model
+documentation will not be accepted. Please answer every line and identify all exceptions.
+
+Documentos antes de pagar saldo
+Commercial invoice, packing list, serial/VIN identification as applicable and origin details.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 22
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Signed technical specification, drawings, wiring diagrams, software/parameters and parts list.
+Battery UN38.3 test summary, SDS, dangerous-goods declaration and packing evidence.
+FAT report, raw logs, photos/video, weigh scale evidence and nonconformity closure.
+Warranty terms, remote commissioning contact and shipment list of critical spares.
+
+B. Checklist de recepción, FAT y SAT
+Copiar esta lista al acta de inspección; cada ítem debe tener evidencia y firma.
+ID
+
+Control
+
+Resultado/evidencia
+
+R-01
+
+Embalaje, golpes, humedad, precintos y números de serie
+
+□ OK □ NC Evidencia: ______
+
+R-02
+
+Contenido contra packing list y repuestos
+
+□ OK □ NC Evidencia: ______
+
+R-03
+
+Pesaje total, por eje y por rueda
+
+□ OK □ NC Evidencia: ______
+
+R-04
+
+Torque de ruedas, suspensión, dirección y frenos
+
+□ OK □ NC Evidencia: ______
+
+R-05
+
+Aislamiento, polaridad, fusible, desconectores y BMS
+
+□ OK □ NC Evidencia: ______
+
+R-06
+
+Software, parámetros, límites y respaldo
+
+□ OK □ NC Evidencia: ______
+
+S-01
+
+Frenado seco/mojado y fade
+
+□ PASS □ FAIL Dato: ______
+
+S-02
+
+10% continuo / 15% arranque / parking 20%
+
+□ PASS □ FAIL Dato: ______
+
+S-03
+
+Full steer/full bump con arte y barro simulado
+
+□ PASS □ FAIL Dato: ______
+
+S-04
+
+E-stop, puertas, reversa y pérdida de CAN
+
+□ PASS □ FAIL Dato: ______
+
+S-05
+
+Audio 2 h, RCD, temperatura y consumo
+
+□ PASS □ FAIL Dato: ______
+
+S-06
+
+Evacuación ≤15 s
+
+□ PASS □ FAIL Dato: ______
+
+S-07
+
+Misión 5 km; SOC final
+
+□ PASS □ FAIL Dato: ______
+
+S-08
+
+25 km durabilidad e inspección NDT/visual
+
+□ PASS □ FAIL Dato: ______
+
+C. Fórmulas y supuestos
+Cálculos transparentes para que el equipo pueda reemplazar cada supuesto con
+datos medidos.
+Tema
+
+Expresión
+
+Uso
+
+Resistencia
+
+F = m·g·(Crr + i)
+
+Rodadura + pendiente a baja velocidad
+
+Potencia eléctrica
+
+Pel = F·v / η
+
+η total motor/control/transmisión = 0,75
+
+Torque rueda
+
+T = F·r
+
+r dinámico supuesto 0,28 m
+
+Energía tracción
+
+E = P·distancia/velocidad
+
+Misión de 5 km
+
+Energía usable
+
+En·(1−reserva)·(1−derating)
+
+15·0,80·0,85 = 10,2 kWh
+
+Frenado
+
+d = v²/(2a)
+
+Sin sumar reacción del piloto
+
+Vuelco ideal
+
+ay/g = trocha/(2·hCG)
+
+Sólo orden geométrico
+
+RPN
+
+Severidad·Ocurrencia·Detección
+
+Priorizar controles; no predice probabilidad
+
+Coeficientes de rodadura usados: 0,04 firme, 0,08 húmedo y 0,15 barro. Son escenarios, no propiedades
+universales. El ensayo de coast-down/consumo en el predio reemplaza estos valores.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 23
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+D. Registro de fuentes
+Fuentes oficiales para reglas y marco; publicaciones de proveedores sólo para
+claims y rangos.
+Disciplina de uso
+Una publicación de marketplace sólo inicia la conversación. Para comprar, reemplazar cada claim por:
+modelo exacto, documento firmado, método de ensayo, número de serie, evidencia FAT y condición
+contractual.
+
+1. Burning Man · MV criteria and licensing. Abrir fuente — mutación, evaluación y licencias
+2. Burning Man · Mutant Vehicle Owner’s Handbook. Abrir fuente — operación y sonido 2026
+3. Burning Man · Noise control and sound policy. Abrir fuente — orientación y horarios
+4. AfrikaBurn · Mutant Vehicles. Abrir fuente — registro, velocidad y seguridad
+5. AfrikaBurn · Sound Policy. Abrir fuente — 95 dB, Sound Officer y orientación
+6. Nowhere · Artomobiles. Abrir fuente — 10 km/h, spotter, frenos y luces
+7. Argentina.gob.ar · Licencia de Configuración de Modelo. Abrir fuente — alcance del régimen vial
+8. Normativa Argentina · Decreto 1140/2024. Abrir fuente — tasa estadística
+9. VUCE Argentina. Abrir fuente — intervenciones de importación
+10. BCRA · Régimen de bandas cambiarias. Abrir fuente — referencia cambiaria
+11. PHMSA · Lithium batteries. Abrir fuente — UN38.3 test summary
+12. OMS · Safe listening venues and events. Abrir fuente — nivel de referencia 100 dB LAeq,15 min
+13. NIOSH · Understanding noise exposure limits. Abrir fuente — 85 dBA/8 h y tasa de intercambio
+14. Alibaba · Four-wheel wire-control product. Abrir fuente — producto aportado; datos insuficientes
+15. Alibaba · Rubber-track product. Abrir fuente — producto aportado; ficha incompleta
+16. Alibaba · 2 kW differential axle. Abrir fuente — producto aportado; descartado
+17. Olano Customs · Tarifario LCL 2026. Abrir fuente — referencia logística; no cotización total
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 24
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+E. Prompts y alcance de los visuales
+Imágenes generadas con el modo incorporado de ImageGen; sirven para alinear
+intención, no para dimensionar piezas.
+Visual
+
+Prompt final resumido
+
+Tatú Sonoro
+
+Render fotorrealista de una criatura tatú argentina continua, sin capot/parabrisas/parrilla/cabina
+visibles; ruedas 4WD discretas tras escamas abiertas; piloto oculto en la cabeza; DJ semisentado en madriguera central; dos tops y un sub integrados; tres pasajeros contenidos; terreno
+de pasto y barro; iluminación cyan/ámbar; fabricación modular realista.
+
+Chakana Resonante
+
+Render fotorrealista de un pabellón móvil geométrico escalonado, no un vehículo decorado;
+ruedas oscurecidas tras faldones perforados; DJ en el centro; parlantes en los brazos; piloto
+detrás de portal oscuro; tres pasajeros, dos salidas, luz cyan/magenta/ámbar y construcción flatpack culturalmente respetuosa.
+
+Coatí Nocturno
+
+Render fotorrealista de una criatura coatí completa y baja, sin lenguaje automotriz; ruedas
+tratadas como patas; piloto oculto en máscara; DJ en la caja torácica; tops en hombros, sub en
+vientre y cola ligera como canopy; tres pasajeros protegidos; metal perforado sin pieles, plumas
+ni materiales sueltos.
+
+Todos los renders exageran libertad formal y pueden contener geometrías no construibles. El equipo
+debe preservar la lectura escultórica mientras corrige visión, holguras, barandas, accesos, ventilación,
+carga y puntos de rescate.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 25
+
+CHAKANA ART CAR / ANTEPROYECTO DE PREFACTIBILIDAD
+
+Cierre
+Sí es viable
+Con un donor 4WD de 12 kW continuos, GVWR ≥1,7 t y masa suficientemente baja, el Tatú Sonoro
+puede mover 500 kg útiles durante 5 km sobre terreno irregular, con DJ y audio activo, conservando
+reserva energética y una silueta radicalmente no vehicular.
+
+Todavía no es comprable
+La condición de viabilidad depende de datos que ningún link aportado demuestra. El único gasto
+inmediato defendible es la fase de reducción de incertidumbre: RFQ comparable, NCM escrito, layout
+CAD, prueba de PA y revisión estructural/eléctrica.
+
+Orden de las próximas cinco decisiones
+1. Confirmar si los 500 kg son carga útil neta y elegir el evento/año objetivo.
+2. Emitir RFQ a 6–10 proveedores y obtener clasificación aduanera escrita.
+3. Seleccionar tres donors por masa/GVWR/frenos, no por precio o potencia pico.
+4. Probar un PA compacto local y medir consumo/cobertura antes de comprar audio.
+5. Autorizar diseño de detalle sólo si el donor supera los gates de masa, carga, frenado y documentos.
+
+Documento de decisión · no apto para fabricar sin ingeniería de detalle • 26
+
+

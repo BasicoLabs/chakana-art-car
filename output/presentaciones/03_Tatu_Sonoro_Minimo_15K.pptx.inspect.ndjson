@@ -1,0 +1,232 @@
+{"kind":"deck","id":"pr/rsblrx","name":"Deck"}
+{"kind":"layout","layoutId":"2d54b2cf-3aae-4c72-be28-0412628ff639","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"eb3d05a4-c88f-42c0-929a-79080f3a47f6","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/nt5mtb","slide":1,"title":"REDISEÑO BAJO USD 15.000","textShapes":4}
+{"kind":"textbox","id":"sh/neh0jyds","slide":1,"text":"REDISEÑO BAJO USD 15.000","textPreview":"REDISEÑO BAJO USD 15.000","textChars":24,"textLines":1,"bbox":[72,80,430,28]}
+{"kind":"textbox","id":"sh/mt8zatc7","slide":1,"text":"Tatú Sonoro\nMínimo","textPreview":"Tatú Sonoro | Mínimo","textChars":18,"textLines":2,"bbox":[72,138,500,170]}
+{"kind":"shape","id":"sh/1szihovm","slide":1,"name":"rule","bbox":[74,335,105,5]}
+{"kind":"textbox","id":"sh/0rqh8ju1","slide":1,"text":"Se mueve. Se abre.\nSe convierte en fiesta.","textPreview":"Se mueve. Se abre. | Se convierte en fiesta.","textChars":42,"textLines":2,"bbox":[72,370,430,105]}
+{"kind":"textbox","id":"sh/fqx0fedg","slide":1,"text":"2×4 · un piloto · DJ en tierra","textPreview":"2×4 · un piloto · DJ en tierra","textChars":30,"textLines":1,"bbox":[72,640,420,24]}
+{"kind":"image","id":"im/ho7a9o3e","slide":1,"name":"","geometry":"rect","alt":"Tatú Sonoro Mínimo cerrado en marcha sobre pasto.","prompt":"Built-in ImageGen project concept visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/nt5mtb","slide":1,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/12_tatu_minimo_marcha.png\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/61qcd3","slide":2,"title":"TATÚ SONORO MÍNIMO","textShapes":11}
+{"kind":"textbox","id":"sh/exkb690z","slide":2,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/10bah4ja","slide":2,"text":"El recorte correcto es dejar de llevar personas","textPreview":"El recorte correcto es dejar de llevar personas","textChars":47,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/gz2t8ji5","slide":2,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/ra9sbu18","slide":2,"text":"ANTES","textPreview":"ANTES","textChars":5,"textLines":1,"bbox":[86,195,220,36]}
+{"kind":"textbox","id":"sh/690rip0n","slide":2,"text":"1,6 t","textPreview":"1,6 t","textChars":5,"textLines":1,"bbox":[82,245,280,85]}
+{"kind":"textbox","id":"sh/twrad4je","slide":2,"text":"5 ocupantes · 4WD · batería nueva","textPreview":"5 ocupantes · 4WD · batería nueva","textChars":33,"textLines":1,"bbox":[86,340,380,60]}
+{"kind":"shape","id":"sh/svit4zit","slide":2,"name":"rule","bbox":[530,185,4,355]}
+{"kind":"textbox","id":"sh/bqdsny1s","slide":2,"text":"AHORA","textPreview":"AHORA","textChars":5,"textLines":1,"bbox":[600,195,220,36]}
+{"kind":"textbox","id":"sh/q54bet07","slide":2,"text":"donor local","textPreview":"donor local","textChars":11,"textLines":1,"bbox":[595,245,440,85]}
+{"kind":"textbox","id":"sh/cbm1wfyh","slide":2,"text":"Sólo piloto · 2×4 · batería usada aprobada","textPreview":"Sólo piloto · 2×4 · batería usada aprobada","textChars":42,"textLines":1,"bbox":[600,340,540,60]}
+{"kind":"shape","id":"sh/xwv2pkz2","slide":2,"name":"pivot","bbox":[82,505,1095,75]}
+{"kind":"textbox","id":"sh/a94ju5gb","slide":2,"text":"La fiesta viaja guardada; se despliega únicamente con el vehículo detenido.","textPreview":"La fiesta viaja guardada; se despliega únicamente con el vehículo detenido.","textChars":75,"textLines":1,"bbox":[120,526,1020,34]}
+{"kind":"textbox","id":"sh/bad0nahw","slide":2,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/o721sfyl","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"notes","id":"nt/61qcd3","slide":2,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/e8q249","slide":3,"title":"TATÚ SONORO MÍNIMO","textShapes":8}
+{"kind":"textbox","id":"sh/xgz6t8bu","slide":3,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/ato7idcj","slide":3,"text":"Dos modos, una sola escultura","textPreview":"Dos modos, una sola escultura","textChars":29,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/behorito","slide":3,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/mpo7utc7","slide":3,"text":"MARCHA","textPreview":"MARCHA","textChars":6,"textLines":1,"bbox":[72,535,220,36]}
+{"kind":"textbox","id":"sh/nqxonyds","slide":3,"text":"Piloto único · arte cerrado · generador apagado","textPreview":"Piloto único · arte cerrado · generador apagado","textChars":47,"textLines":1,"bbox":[72,578,500,52]}
+{"kind":"textbox","id":"sh/0n6ps3u1","slide":3,"text":"FIESTA","textPreview":"FIESTA","textChars":6,"textLines":1,"bbox":[673,535,220,36]}
+{"kind":"textbox","id":"sh/1of6lovm","slide":3,"text":"DJ parado en tierra · PA abierto · generador afuera","textPreview":"DJ parado en tierra · PA abierto · generador afuera","textChars":51,"textLines":1,"bbox":[673,578,500,52]}
+{"kind":"textbox","id":"sh/x4j6x8vi","slide":3,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/w3qpo3ex","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"image","id":"im/dcnet0r2","slide":3,"name":"","geometry":"roundRect","alt":"Tatú mínimo cerrado en modo marcha.","prompt":"Built-in ImageGen project concept visual","bbox":[72,180,535,330]}
+{"kind":"image","id":"im/cbexkvah","slide":3,"name":"","geometry":"roundRect","alt":"Tatú mínimo estacionado con DJ de pie y estación desplegada.","prompt":"Built-in ImageGen project concept visual","bbox":[673,180,535,330]}
+{"kind":"notes","id":"nt/e8q249","slide":3,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/12_tatu_minimo_marcha.png\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/13_tatu_minimo_fiesta.png\n[/Sources]"}
+{"kind":"slide","id":"sl/ce0fje","slide":4,"title":"TATÚ SONORO MÍNIMO","textShapes":17}
+{"kind":"textbox","id":"sh/j2p43ip0","slide":4,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/43ylwnq5","slide":4,"text":"Siete bandas bastan para esconder el chasis","textPreview":"Siete bandas bastan para esconder el chasis","textChars":43,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/547m5s7q","slide":4,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/vy54zipo","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,181,58,42]}
+{"kind":"shape","id":"sh/wzelsnq9","slide":4,"name":"r1","bbox":[150,198,90,3]}
+{"kind":"textbox","id":"sh/h07m1s7u","slide":4,"text":"Cabeza","textPreview":"Cabeza","textChars":6,"textLines":1,"bbox":[265,180,280,44]}
+{"kind":"shape","id":"sh/m9w3mt87","slide":4,"bbox":[560,180,620,64]}
+{"kind":"textbox","id":"sh/7u54vyps","slide":4,"text":"Visión por la máscara","textPreview":"Visión por la máscara","textChars":21,"textLines":1,"bbox":[265,217,255,28]}
+{"kind":"textbox","id":"sh/fmx87uh0","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,291,58,42]}
+{"kind":"shape","id":"sh/ulorepgf","slide":4,"name":"r2","bbox":[150,308,90,3]}
+{"kind":"textbox","id":"sh/hofq94z6","slide":4,"text":"Caparazón","textPreview":"Caparazón","textChars":9,"textLines":1,"bbox":[265,290,280,44]}
+{"kind":"shape","id":"sh/gn69gzyl","slide":4,"bbox":[560,290,620,64]}
+{"kind":"textbox","id":"sh/3qx8buhw","slide":4,"text":"7 costillas atornilladas","textPreview":"7 costillas atornilladas","textChars":24,"textLines":1,"bbox":[265,327,255,28]}
+{"kind":"textbox","id":"sh/2poripgr","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,401,58,42]}
+{"kind":"shape","id":"sh/psfqd4z2","slide":4,"name":"r3","bbox":[150,418,90,3]}
+{"kind":"textbox","id":"sh/4r69kzyh","slide":4,"text":"Laterales","textPreview":"Laterales","textChars":9,"textLines":1,"bbox":[265,400,280,44]}
+{"kind":"shape","id":"sh/jud8zahs","slide":4,"bbox":[560,400,620,64]}
+{"kind":"textbox","id":"sh/itk765g7","slide":4,"text":"Mesa + registros de PA","textPreview":"Mesa + registros de PA","textChars":22,"textLines":1,"bbox":[265,437,255,28]}
+{"kind":"textbox","id":"sh/mlc3ux47","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,511,58,42]}
+{"kind":"shape","id":"sh/7mlk325s","slide":4,"name":"r4","bbox":[150,528,90,3]}
+{"kind":"textbox","id":"sh/8nulw7md","slide":4,"text":"Cola","textPreview":"Cola","textChars":4,"textLines":1,"bbox":[265,510,280,44]}
+{"kind":"shape","id":"sh/9o325cni","slide":4,"bbox":[560,510,620,64]}
+{"kind":"textbox","id":"sh/yxsjqx4v","slide":4,"text":"Empuje + rescate","textPreview":"Empuje + rescate","textChars":16,"textLines":1,"bbox":[265,547,255,28]}
+{"kind":"textbox","id":"sh/zilkz25g","slide":4,"text":"3,6–4,0 m × 1,80–1,95 m × ≤2,10 m","textPreview":"3,6–4,0 m × 1,80–1,95 m × ≤2,10 m","textChars":33,"textLines":1,"bbox":[660,607,460,28]}
+{"kind":"textbox","id":"sh/kju1s7m1","slide":4,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/lk321cnm","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"image","id":"im/z2dgvi9k","slide":4,"name":"","geometry":"roundRect","alt":"Tatú Sonoro Mínimo con siete bandas y ruedas ATV grandes.","prompt":"Built-in ImageGen project concept visual","bbox":[560,160,650,420]}
+{"kind":"notes","id":"nt/ce0fje","slide":4,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/12_tatu_minimo_marcha.png\n[/Sources]"}
+{"kind":"slide","id":"sl/95i2h4","slide":5,"title":"TATÚ SONORO MÍNIMO","textShapes":16}
+{"kind":"textbox","id":"sh/tojq5wbm","slide":5,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/6ls7ahcb","slide":5,"text":"Ruedas grandes y baja presión antes que más potencia","textPreview":"Ruedas grandes y baja presión antes que más potencia","textChars":52,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/7m183mtw","slide":5,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/grapgrad","slide":5,"text":"25×10–12","textPreview":"25×10–12","textChars":8,"textLines":1,"bbox":[80,195,255,74]}
+{"kind":"textbox","id":"sh/hc3q9wby","slide":5,"text":"traseras motrices · 8–10 psi","textPreview":"traseras motrices · 8–10 psi","textChars":28,"textLines":1,"bbox":[80,273,255,60]}
+{"kind":"textbox","id":"sh/ups7e1c7","slide":5,"text":"24×8–12","textPreview":"24×8–12","textChars":7,"textLines":1,"bbox":[390,195,250,74]}
+{"kind":"textbox","id":"sh/fq1876ts","slide":5,"text":"delanteras · 8–10 psi","textPreview":"delanteras · 8–10 psi","textChars":21,"textLines":1,"bbox":[390,273,250,60]}
+{"kind":"textbox","id":"sh/wvqp47u9","slide":5,"text":"≥1,25×","textPreview":"≥1,25×","textChars":6,"textLines":1,"bbox":[700,195,210,74]}
+{"kind":"textbox","id":"sh/xwz6xcbu","slide":5,"text":"carga medida por rueda","textPreview":"carga medida por rueda","textChars":22,"textLines":1,"bbox":[700,273,210,60]}
+{"kind":"textbox","id":"sh/xcn6tcrq","slide":5,"text":"≥25 mm","textPreview":"≥25 mm","textChars":6,"textLines":1,"bbox":[975,195,220,74]}
+{"kind":"textbox","id":"sh/cbepk7q5","slide":5,"text":"despeje dinámico","textPreview":"despeje dinámico","textChars":16,"textLines":1,"bbox":[975,273,220,60]}
+{"kind":"shape","id":"sh/ba5or29k","slide":5,"name":"rule","bbox":[80,400,1120,2]}
+{"kind":"shape","id":"sh/a9w7ix8f","slide":5,"name":"b0","bbox":[165,456,9,9]}
+{"kind":"textbox","id":"sh/l076xcr2","slide":5,"text":"ATV/UTV all-terrain 6PR; no taco extremo","textPreview":"ATV/UTV all-terrain 6PR; no taco extremo","textChars":40,"textLines":1,"bbox":[191,448,954,44]}
+{"kind":"shape","id":"sh/kzyporqh","slide":5,"name":"b1","bbox":[165,504,9,9]}
+{"kind":"textbox","id":"sh/zepovm9w","slide":5,"text":"Presión final por tabla de carga, huella y temperatura","textPreview":"Presión final por tabla de carga, huella y temperatura","textChars":54,"textLines":1,"bbox":[191,496,954,44]}
+{"kind":"shape","id":"sh/ydg7mh8b","slide":5,"name":"b2","bbox":[165,552,9,9]}
+{"kind":"textbox","id":"sh/947q1wry","slide":5,"text":"Mantener offset OEM; sin separadores ni beadlocks en fase 1","textPreview":"Mantener offset OEM; sin separadores ni beadlocks en fase 1","textChars":59,"textLines":1,"bbox":[191,544,954,44]}
+{"kind":"shape","id":"sh/83ypsrqd","slide":5,"name":"b3","bbox":[165,600,9,9]}
+{"kind":"textbox","id":"sh/sjqhkz21","slide":5,"text":"Si exige rehacer transaxle o frenos: rueda OEM en el primer test","textPreview":"Si exige rehacer transaxle o frenos: rueda OEM en el primer test","textChars":64,"textLines":1,"bbox":[191,592,954,44]}
+{"kind":"textbox","id":"sh/tkzid4j6","slide":5,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/6h8zipkv","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"notes","id":"nt/95i2h4","slide":5,"text":"[Sources]\n- https://listado.mercadolibre.com.ar/cubiertas-24-8-12\n- https://www.mercadolibre.com.ar/cubierta-25x1012-honda-polaris-can-am-kawasak-tacos-ref-6-t/up/MLAU298485992\n[/Sources]"}
+{"kind":"slide","id":"sl/nkfwfy","slide":6,"title":"TATÚ SONORO MÍNIMO","textShapes":9}
+{"kind":"textbox","id":"sh/tgbu1cj6","slide":6,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/6dkb6hkf","slide":6,"text":"El donor se aprueba en campo, no por catálogo","textPreview":"El donor se aprueba en campo, no por catálogo","textChars":45,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/7etczm10","slide":6,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/5cbuxcju","slide":6,"text":"3–5 kW","textPreview":"3–5 kW","textChars":6,"textLines":1,"bbox":[905,205,280,68]}
+{"kind":"textbox","id":"sh/ipkb2xkj","slide":6,"text":"nominales\ncon buen pico","textPreview":"nominales | con buen pico","textChars":23,"textLines":2,"bbox":[925,282,240,70]}
+{"kind":"textbox","id":"sh/jqtcv214","slide":6,"text":"5 km","textPreview":"5 km","textChars":4,"textLines":1,"bbox":[920,405,260,55]}
+{"kind":"textbox","id":"sh/wnit0n2d","slide":6,"text":"prueba cargado antes de comprar","textPreview":"prueba cargado antes de comprar","textChars":31,"textLines":1,"bbox":[925,466,260,58]}
+{"kind":"textbox","id":"sh/xorutsjy","slide":6,"text":"* Barro +10% queda fuera del uso normal","textPreview":"* Barro +10% queda fuera del uso normal","textChars":39,"textLines":1,"bbox":[900,555,280,46]}
+{"kind":"textbox","id":"sh/t4veh4j6","slide":6,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/s32d8zil","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"chart","id":"ch/476pob2t","slide":6,"name":"","chartType":"bar","bbox":[70,185,790,405]}
+{"kind":"notes","id":"nt/nkfwfy","slide":6,"text":"[Sources]\n- https://www.clubcar.com/-/media/project/milky-way/clubcar/clubcar-documents/pdf/literature/commercial/carryall/comm0045---carryall-300-brochure-lr.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/jcqh8u","slide":7,"title":"DJ parado.","textShapes":7}
+{"kind":"shape","id":"sh/6hcrmlkj","slide":7,"name":"panel","bbox":[0,0,470,720]}
+{"kind":"textbox","id":"sh/rilsfq1o","slide":7,"text":"DJ parado.\nVehículo parado.","textPreview":"DJ parado. | Vehículo parado.","textChars":27,"textLines":2,"bbox":[62,90,355,130]}
+{"kind":"shape","id":"sh/07e9sv2l","slide":7,"name":"rule","bbox":[65,248,95,5]}
+{"kind":"shape","id":"sh/18nal0j6","slide":7,"name":"b0","bbox":[66,308,9,9]}
+{"kind":"textbox","id":"sh/e5crqlkf","slide":7,"text":"Mesa sobre patas propias","textPreview":"Mesa sobre patas propias","textChars":24,"textLines":1,"bbox":[92,300,319,52]}
+{"kind":"shape","id":"sh/f6lsjq10","slide":7,"name":"b1","bbox":[66,364,9,9]}
+{"kind":"textbox","id":"sh/wba9gb21","slide":7,"text":"Tracción inhibida al desplegar","textPreview":"Tracción inhibida al desplegar","textChars":30,"textLines":1,"bbox":[92,356,319,52]}
+{"kind":"shape","id":"sh/hcja9wjm","slide":7,"name":"b2","bbox":[66,420,9,9]}
+{"kind":"textbox","id":"sh/1gvydcf2","slide":7,"text":"PA alquilado: 2 tops + 1 sub","textPreview":"PA alquilado: 2 tops + 1 sub","textChars":28,"textLines":1,"bbox":[92,412,319,52]}
+{"kind":"shape","id":"sh/0fmh47eh","slide":7,"name":"b3","bbox":[66,476,9,9]}
+{"kind":"textbox","id":"sh/fedgbmxw","slide":7,"text":"Generador 5,5 kW continuos","textPreview":"Generador 5,5 kW continuos","textChars":26,"textLines":1,"bbox":[92,468,319,52]}
+{"kind":"shape","id":"sh/ed4f2hwr","slide":7,"name":"b4","bbox":[66,532,9,9]}
+{"kind":"textbox","id":"sh/p4fyhwfe","slide":7,"text":"Generador opera en tierra y afuera","textPreview":"Generador opera en tierra y afuera","textChars":34,"textLines":1,"bbox":[92,524,319,52]}
+{"kind":"textbox","id":"sh/o3mh8ret","slide":7,"text":"Nunca transportar al DJ de pie.","textPreview":"Nunca transportar al DJ de pie.","textChars":31,"textLines":1,"bbox":[66,610,350,32]}
+{"kind":"image","id":"im/0va9ofup","slide":7,"name":"","geometry":"rect","alt":"Tatú mínimo abierto como fiesta con DJ parado sobre el suelo.","prompt":"Built-in ImageGen project concept visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/jcqh8u","slide":7,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/13_tatu_minimo_fiesta.png\n- https://www.afrikaburn.org/afrikaburn-sound-policy/\n- https://www.alquilerdecamaras.com.ar/rentals/omrental/\n[/Sources]"}
+{"kind":"slide","id":"sl/qqa4a2","slide":8,"title":"TATÚ SONORO MÍNIMO","textShapes":17}
+{"kind":"textbox","id":"sh/q1ofm9gz","slide":8,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/d4fyh4zq","slide":8,"text":"Se puede empujar, pero sólo como recuperación corta","textPreview":"Se puede empujar, pero sólo como recuperación corta","textChars":51,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/c36xozy5","slide":8,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/3edwbuho","slide":8,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,176,58,42]}
+{"kind":"shape","id":"sh/2d4fipg3","slide":8,"name":"r1","bbox":[150,193,90,3]}
+{"kind":"textbox","id":"sh/p0fed4zu","slide":8,"text":"Tow / neutro","textPreview":"Tow / neutro","textChars":12,"textLines":1,"bbox":[265,175,280,44]}
+{"kind":"textbox","id":"sh/4z6xkzy9","slide":8,"text":"Modo autorizado por fabricante o neutro mecánico real.","textPreview":"Modo autorizado por fabricante o neutro mecánico real.","textChars":54,"textLines":1,"bbox":[560,175,620,64]}
+{"kind":"textbox","id":"sh/nahgnyhs","slide":8,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,281,58,42]}
+{"kind":"shape","id":"sh/m98futg7","slide":8,"name":"r2","bbox":[150,298,90,3]}
+{"kind":"textbox","id":"sh/g36ds3m9","slide":8,"text":"Compra","textPreview":"Compra","textChars":6,"textLines":1,"bbox":[265,280,280,44]}
+{"kind":"textbox","id":"sh/h4zel83u","slide":8,"text":"Llave fuera: 2 adultos, <150 N continuos y <250 N de arranque.","textPreview":"Llave fuera: 2 adultos, <150 N continuos y <250 N de arranque.","textChars":62,"textLines":1,"bbox":[560,280,620,64]}
+{"kind":"textbox","id":"sh/u1ovqt43","slide":8,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,386,58,42]}
+{"kind":"shape","id":"sh/v2xwjylo","slide":8,"name":"r3","bbox":[150,403,90,3]}
+{"kind":"textbox","id":"sh/8z6do3mx","slide":8,"text":"Empuje","textPreview":"Empuje","textChars":6,"textLines":1,"bbox":[265,385,280,44]}
+{"kind":"textbox","id":"sh/t0feho3i","slide":8,"text":"Sólo firme · ≤20 m · ≤2 km/h · pendiente ≤2%.","textPreview":"Sólo firme · ≤20 m · ≤2 km/h · pendiente ≤2%.","textChars":45,"textLines":1,"bbox":[560,385,620,64]}
+{"kind":"textbox","id":"sh/6xovmt47","slide":8,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,491,58,42]}
+{"kind":"shape","id":"sh/7yxwfylc","slide":8,"name":"r4","bbox":[150,508,90,3]}
+{"kind":"textbox","id":"sh/kvmdkjm1","slide":8,"text":"Rescate","textPreview":"Rescate","textChars":7,"textLines":1,"bbox":[265,490,280,44]}
+{"kind":"textbox","id":"sh/lwfedo3m","slide":8,"text":"Si se hunde o supera el esfuerzo: malacate/remolque.","textPreview":"Si se hunde o supera el esfuerzo: malacate/remolque.","textChars":52,"textLines":1,"bbox":[560,490,620,64]}
+{"kind":"shape","id":"sh/ls7uhkva","slide":8,"name":"push-gate","bbox":[82,600,1095,46]}
+{"kind":"textbox","id":"sh/0retofep","slide":8,"text":"Piloto sentado dirige y frena · puntos de recuperación unidos al bastidor","textPreview":"Piloto sentado dirige y frena · puntos de recuperación unidos al bastidor","textChars":73,"textLines":1,"bbox":[110,611,1040,26]}
+{"kind":"textbox","id":"sh/zq5cfax4","slide":8,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/ypwbm5wj","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"notes","id":"nt/qqa4a2","slide":8,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Tatu_Sonoro_Minimo_Presupuesto_15K.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/gmdvsm","slide":9,"title":"TATÚ SONORO MÍNIMO","textShapes":10}
+{"kind":"textbox","id":"sh/svmlgra9","slide":9,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/rudknm9o","slide":9,"text":"La versión simple entra en USD 14.650","textPreview":"La versión simple entra en USD 14.650","textChars":37,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/qt43ehs3","slide":9,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/0z6lkbal","slide":9,"text":"USD 13.350","textPreview":"USD 13.350","textChars":10,"textLines":1,"bbox":[880,190,310,60]}
+{"kind":"textbox","id":"sh/fyxkb690","slide":9,"text":"base con PA alquilado","textPreview":"base con PA alquilado","textChars":21,"textLines":1,"bbox":[885,255,280,28]}
+{"kind":"textbox","id":"sh/exo3i1sf","slide":9,"text":"+ USD 1.300","textPreview":"+ USD 1.300","textChars":11,"textLines":1,"bbox":[880,340,300,60]}
+{"kind":"textbox","id":"sh/poz2hgr2","slide":9,"text":"contingencia","textPreview":"contingencia","textChars":12,"textLines":1,"bbox":[885,405,280,28]}
+{"kind":"shape","id":"sh/o36lobqh","slide":9,"name":"rule","bbox":[880,485,275,3]}
+{"kind":"textbox","id":"sh/254ryx4n","slide":9,"text":"USD 14.650","textPreview":"USD 14.650","textChars":10,"textLines":1,"bbox":[880,515,310,65]}
+{"kind":"textbox","id":"sh/36d8725s","slide":9,"text":"Margen libre: USD 350","textPreview":"Margen libre: USD 350","textChars":21,"textLines":1,"bbox":[885,590,285,30]}
+{"kind":"textbox","id":"sh/47m907md","slide":9,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/p8fq9s3y","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"chart","id":"ch/9sj6hw7e","slide":9,"name":"","chartType":"bar","bbox":[65,180,760,420]}
+{"kind":"notes","id":"nt/gmdvsm","slide":9,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Tatu_Sonoro_Minimo_Presupuesto_15K.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/e67z8q","slide":10,"title":"TATÚ SONORO MÍNIMO","textShapes":17}
+{"kind":"textbox","id":"sh/d4j2hwnm","slide":10,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/q183mh4v","slide":10,"text":"El presupuesto depende de decir no","textPreview":"El presupuesto depende de decir no","textChars":34,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/r2hkfm5g","slide":10,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/07alsrmd","slide":10,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,171,58,42]}
+{"kind":"shape","id":"sh/18jmlwni","slide":10,"name":"r1","bbox":[150,188,90,3]}
+{"kind":"textbox","id":"sh/e5s3q147","slide":10,"text":"Sin pasajeros","textPreview":"Sin pasajeros","textChars":13,"textLines":1,"bbox":[265,170,280,44]}
+{"kind":"textbox","id":"sh/z614j65s","slide":10,"text":"Sólo piloto. Los antiguos 500 kg de carga dejan de aplicar.","textPreview":"Sólo piloto. Los antiguos 500 kg de carga dejan de aplicar.","textChars":59,"textLines":1,"bbox":[560,170,620,64]}
+{"kind":"textbox","id":"sh/gbqlg76t","slide":10,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,271,58,42]}
+{"kind":"shape","id":"sh/hcz29cne","slide":10,"name":"r2","bbox":[150,288,90,3]}
+{"kind":"textbox","id":"sh/psnipsvy","slide":10,"text":"Sin batería nueva","textPreview":"Sin batería nueva","textChars":17,"textLines":1,"bbox":[265,270,280,44]}
+{"kind":"textbox","id":"sh/orehgned","slide":10,"text":"El donor entra sólo si supera la prueba de 5 km cargado.","textPreview":"El donor entra sólo si supera la prueba de 5 km cargado.","textChars":56,"textLines":1,"bbox":[560,270,620,64]}
+{"kind":"textbox","id":"sh/3ql0nids","slide":10,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,371,58,42]}
+{"kind":"shape","id":"sh/2pczexw7","slide":10,"name":"r3","bbox":[150,388,90,3]}
+{"kind":"textbox","id":"sh/dwnidcvu","slide":10,"text":"Sin PA comprado","textPreview":"Sin PA comprado","textChars":15,"textLines":1,"bbox":[265,370,280,44]}
+{"kind":"textbox","id":"sh/cvehk7e9","slide":10,"text":"Alquiler durante los primeros eventos; DJ siempre en tierra.","textPreview":"Alquiler durante los primeros eventos; DJ siempre en tierra.","textChars":60,"textLines":1,"bbox":[560,370,620,64]}
+{"kind":"textbox","id":"sh/bu50b2do","slide":10,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,471,58,42]}
+{"kind":"shape","id":"sh/qtwzixw3","slide":10,"name":"r4","bbox":[150,488,90,3]}
+{"kind":"textbox","id":"sh/lk7ihcvq","slide":10,"text":"Sin importación mayor","textPreview":"Sin importación mayor","textChars":21,"textLines":1,"bbox":[265,470,280,44]}
+{"kind":"textbox","id":"sh/0jyho7el","slide":10,"text":"China sólo para repuestos livianos y compatibles.","textPreview":"China sólo para repuestos livianos y compatibles.","textChars":49,"textLines":1,"bbox":[560,470,620,64]}
+{"kind":"shape","id":"sh/4f6t0fqt","slide":10,"name":"boundary","bbox":[82,585,1095,62]}
+{"kind":"textbox","id":"sh/5gza9k7e","slide":10,"text":"Donor + reparaciones iniciales: máximo USD 4.950; si excede, no se compra.","textPreview":"Donor + reparaciones iniciales: máximo USD 4.950; si excede, no se compra.","textChars":74,"textLines":1,"bbox":[115,602,1030,32]}
+{"kind":"textbox","id":"sh/idoby58n","slide":10,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/jexs7ap8","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"notes","id":"nt/e67z8q","slide":10,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Tatu_Sonoro_Minimo_Presupuesto_15K.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/caxtcj","slide":11,"title":"TATÚ SONORO MÍNIMO","textShapes":17}
+{"kind":"textbox","id":"sh/hcv6hkny","slide":11,"text":"TATÚ SONORO MÍNIMO","textPreview":"TATÚ SONORO MÍNIMO","textChars":18,"textLines":1,"bbox":[72,36,350,24]}
+{"kind":"textbox","id":"sh/u94nmp4n","slide":11,"text":"Construir primero lo que lo hace moverse","textPreview":"Construir primero lo que lo hace moverse","textChars":40,"textLines":1,"bbox":[72,72,1136,58]}
+{"kind":"shape","id":"sh/vadofu58","slide":11,"name":"rule","bbox":[72,140,90,4]}
+{"kind":"textbox","id":"sh/4f65szmp","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,171,58,42]}
+{"kind":"shape","id":"sh/5gf6l4na","slide":11,"name":"r1","bbox":[150,188,90,3]}
+{"kind":"textbox","id":"sh/idonqp4j","slide":11,"text":"Elegir donor","textPreview":"Elegir donor","textChars":12,"textLines":1,"bbox":[265,170,280,44]}
+{"kind":"textbox","id":"sh/jexoju54","slide":11,"text":"Batería, freno, dirección, Tow y 5 km antes de señar.","textPreview":"Batería, freno, dirección, Tow y 5 km antes de señar.","textChars":53,"textLines":1,"bbox":[560,170,620,64]}
+{"kind":"textbox","id":"sh/kj25gfml","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,276,58,42]}
+{"kind":"shape","id":"sh/lkbm90nq","slide":11,"name":"r2","bbox":[150,293,90,3]}
+{"kind":"textbox","id":"sh/t072xcnm","slide":11,"text":"Rolling test","textPreview":"Rolling test","textChars":12,"textLines":1,"bbox":[265,275,280,44]}
+{"kind":"textbox","id":"sh/szyl47m1","slide":11,"text":"Ruedas, despejes, frenado, neutral, ojos y malacate.","textPreview":"Ruedas, despejes, frenado, neutral, ojos y malacate.","textChars":52,"textLines":1,"bbox":[560,275,620,64]}
+{"kind":"textbox","id":"sh/7ypkv25w","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,381,58,42]}
+{"kind":"shape","id":"sh/6xw32x4b","slide":11,"name":"r3","bbox":[150,398,90,3]}
+{"kind":"textbox","id":"sh/14721cny","slide":11,"text":"Fiesta","textPreview":"Fiesta","textChars":6,"textLines":1,"bbox":[265,380,280,44]}
+{"kind":"textbox","id":"sh/g3yl8rmd","slide":11,"text":"Generador, RCD, PA alquilado y mesa sobre el suelo.","textPreview":"Generador, RCD, PA alquilado y mesa sobre el suelo.","textChars":51,"textLines":1,"bbox":[560,380,620,64]}
+{"kind":"textbox","id":"sh/f2pkzm5s","slide":11,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,486,58,42]}
+{"kind":"shape","id":"sh/u1g36h47","slide":11,"name":"r4","bbox":[150,503,90,3]}
+{"kind":"textbox","id":"sh/psrm5w3u","slide":11,"text":"Criatura","textPreview":"Criatura","textChars":8,"textLines":1,"bbox":[265,485,280,44]}
+{"kind":"textbox","id":"sh/orilcrm9","slide":11,"text":"Siete bandas, luces y registros de servicio.","textPreview":"Siete bandas, luces y registros de servicio.","textChars":44,"textLines":1,"bbox":[560,485,620,64]}
+{"kind":"textbox","id":"sh/8nadozyx","slide":11,"text":"Si falla una prueba, el caparazón todavía no está construido.","textPreview":"Si falla una prueba, el caparazón todavía no está construido.","textChars":61,"textLines":1,"bbox":[190,610,900,32]}
+{"kind":"textbox","id":"sh/98jex4fi","slide":11,"text":"PREFactibilidad mínima · agosto 2026","textPreview":"PREFactibilidad mínima · agosto 2026","textChars":36,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/ml8vmpgr","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1148,678,60,22]}
+{"kind":"notes","id":"nt/caxtcj","slide":11,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Tatu_Sonoro_Minimo_Presupuesto_15K.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/xxi4yn","slide":12,"title":"DECISIÓN","textShapes":11}
+{"kind":"textbox","id":"sh/s7290nyh","slide":12,"text":"DECISIÓN","textPreview":"DECISIÓN","textChars":8,"textLines":1,"bbox":[78,74,250,28]}
+{"kind":"textbox","id":"sh/7698rixw","slide":12,"text":"Aprobar el\nprototipo mínimo","textPreview":"Aprobar el | prototipo mínimo","textChars":27,"textLines":2,"bbox":[78,125,650,155]}
+{"kind":"shape","id":"sh/650rydgb","slide":12,"name":"rule","bbox":[82,320,105,6]}
+{"kind":"shape","id":"sh/hwbaxsfy","slide":12,"name":"b0","bbox":[82,378,9,9]}
+{"kind":"textbox","id":"sh/gb2947yt","slide":12,"text":"Techo total: USD 15.000","textPreview":"Techo total: USD 15.000","textChars":23,"textLines":1,"bbox":[108,370,624,50]}
+{"kind":"shape","id":"sh/fat8v2x8","slide":12,"name":"b1","bbox":[82,432,9,9]}
+{"kind":"textbox","id":"sh/u9kr2xgn","slide":12,"text":"Donor local sano antes que piezas sueltas","textPreview":"Donor local sano antes que piezas sueltas","textChars":41,"textLines":1,"bbox":[108,424,624,50]}
+{"kind":"shape","id":"sh/xgrql8fu","slide":12,"name":"b2","bbox":[82,486,9,9]}
+{"kind":"textbox","id":"sh/wfy9s3y9","slide":12,"text":"Ruedas y frenos antes que decoración","textPreview":"Ruedas y frenos antes que decoración","textChars":36,"textLines":1,"bbox":[108,478,624,50]}
+{"kind":"shape","id":"sh/6d4v2xcf","slide":12,"name":"b3","bbox":[82,540,9,9]}
+{"kind":"textbox","id":"sh/7edwvid0","slide":12,"text":"DJ siempre de pie y fuera del vehículo","textPreview":"DJ siempre de pie y fuera del vehículo","textChars":38,"textLines":1,"bbox":[108,532,624,50]}
+{"kind":"shape","id":"sh/8fmd4nul","slide":12,"name":"ask","bbox":[800,105,360,475]}
+{"kind":"textbox","id":"sh/tgvexsvq","slide":12,"text":"PRIMERO","textPreview":"PRIMERO","textChars":7,"textLines":1,"bbox":[850,160,260,48]}
+{"kind":"textbox","id":"sh/uh4v6xcb","slide":12,"text":"donor + ruedas\n+ frenos + prueba","textPreview":"donor + ruedas | + frenos + prueba","textChars":32,"textLines":2,"bbox":[835,245,290,115]}
+{"kind":"shape","id":"sh/vidwz2tw","slide":12,"name":"rule","bbox":[870,408,220,3]}
+{"kind":"textbox","id":"sh/gj6d87uh","slide":12,"text":"DESPUÉS","textPreview":"DESPUÉS","textChars":7,"textLines":1,"bbox":[850,455,260,45]}
+{"kind":"textbox","id":"sh/hkfe1cb2","slide":12,"text":"PA alquilado + piel","textPreview":"PA alquilado + piel","textChars":19,"textLines":1,"bbox":[840,520,280,35]}
+{"kind":"textbox","id":"sh/ilovahcn","slide":12,"text":"Tatú Sonoro Mínimo · anteproyecto revisado","textPreview":"Tatú Sonoro Mínimo · anteproyecto revisado","textChars":42,"textLines":1,"bbox":[82,660,480,22]}
+{"kind":"notes","id":"nt/xxi4yn","slide":12,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Tatu_Sonoro_Minimo_Presupuesto_15K.xlsx\n[/Sources]"}

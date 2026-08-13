@@ -1,0 +1,283 @@
+{"kind":"slide","id":"sl/v5gfj7","slide":1,"title":"DOSSIER TÉCNICO","textShapes":4}
+{"kind":"shape","id":"sh/s3exwbi1","slide":1,"name":"cover-panel","bbox":[0,0,470,720]}
+{"kind":"textbox","id":"sh/t4ne5gzm","slide":1,"text":"DOSSIER TÉCNICO","textPreview":"DOSSIER TÉCNICO","textChars":15,"textLines":1,"bbox":[65,86,330,28]}
+{"kind":"textbox","id":"sh/ixcfq10z","slide":1,"text":"Tatú Sonoro","textPreview":"Tatú Sonoro","textChars":11,"textLines":1,"bbox":[65,145,350,125]}
+{"kind":"shape","id":"sh/jylwzmhk","slide":1,"name":"rule","bbox":[68,292,100,5]}
+{"kind":"textbox","id":"sh/4zuxsrip","slide":1,"text":"Base de diseño, compras, importación y pruebas","textPreview":"Base de diseño, compras, importación y pruebas","textChars":46,"textLines":1,"bbox":[65,330,330,110]}
+{"kind":"textbox","id":"sh/503e1wza","slide":1,"text":"Prefactibilidad · Argentina · agosto 2026","textPreview":"Prefactibilidad · Argentina · agosto 2026","textChars":41,"textLines":1,"bbox":[65,645,350,24]}
+{"kind":"image","id":"im/it0bqt07","slide":1,"name":"","geometry":"rect","alt":"Corte técnico conceptual del Tatú Sonoro.","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/v5gfj7","slide":1,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/11_cutaway_presentacion.png\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/xec3nk","slide":2,"title":"BASE TÉCNICA","textShapes":15}
+{"kind":"textbox","id":"sh/c36twjip","slide":2,"name":"eyebrow","text":"BASE TÉCNICA","textPreview":"BASE TÉCNICA","textChars":12,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/r2xc3ehk","slide":2,"name":"slide-title","text":"El caso de diseño es 1,6 toneladas","textPreview":"El caso de diseño es 1,6 toneladas","textChars":34,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/q1obu90z","slide":2,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/18zu98zm","slide":2,"name":"metric-1.635","text":"1.635","textPreview":"1.635","textChars":5,"textLines":1,"bbox":[80,190,250,74]}
+{"kind":"textbox","id":"sh/07qt03i1","slide":2,"name":"metric-label-1.635","text":"kg operativos proyectados","textPreview":"kg operativos proyectados","textChars":25,"textLines":1,"bbox":[80,268,250,58]}
+{"kind":"textbox","id":"sh/z6hc7yhg","slide":2,"name":"metric-12","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[400,190,220,74]}
+{"kind":"textbox","id":"sh/e58byt0v","slide":2,"name":"metric-label-12","text":"kW continuos 4WD","textPreview":"kW continuos 4WD","textChars":16,"textLines":1,"bbox":[400,268,220,58]}
+{"kind":"textbox","id":"sh/hcvax4z2","slide":2,"name":"metric-15","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[700,190,220,74]}
+{"kind":"textbox","id":"sh/gbmtozix","slide":2,"name":"metric-label-15","text":"kWh LFP nominales","textPreview":"kWh LFP nominales","textChars":17,"textLines":1,"bbox":[700,268,220,58]}
+{"kind":"textbox","id":"sh/q9k7i9wb","slide":2,"name":"metric-1,7","text":"1,7","textPreview":"1,7","textChars":3,"textLines":1,"bbox":[990,190,210,74]}
+{"kind":"textbox","id":"sh/rat8budw","slide":2,"name":"metric-label-1,7","text":"t GVWR mínimo","textPreview":"t GVWR mínimo","textChars":13,"textLines":1,"bbox":[990,268,210,58]}
+{"kind":"shape","id":"sh/cb2pkze1","slide":2,"name":"rule","bbox":[80,415,1120,2]}
+{"kind":"shape","id":"sh/dwbqd4vm","slide":2,"name":"bullet-0","bbox":[145,472,9,9]}
+{"kind":"textbox","id":"sh/ex47m9w7","slide":2,"name":"bullet-text-0","text":"10% continua · 15% corta · pendiente lateral operativa ≤8°","textPreview":"10% continua · 15% corta · pendiente lateral operativa ≤8°","textChars":58,"textLines":1,"bbox":[171,465,974,54]}
+{"kind":"shape","id":"sh/zyd8feds","slide":2,"name":"bullet-1","bbox":[145,530,9,9]}
+{"kind":"textbox","id":"sh/0zmpojed","slide":2,"name":"bullet-text-1","text":"5 km/h normal · 8 km/h traslado · 10 km/h límite duro","textPreview":"5 km/h normal · 8 km/h traslado · 10 km/h límite duro","textChars":53,"textLines":1,"bbox":[171,523,974,54]}
+{"kind":"shape","id":"sh/10vqhovy","slide":2,"name":"bullet-2","bbox":[145,588,9,9]}
+{"kind":"textbox","id":"sh/m147qtwj","slide":2,"name":"bullet-text-2","text":"Carga útil 500 kg: piloto, DJ, tres pasajeros y pertenencias","textPreview":"Carga útil 500 kg: piloto, DJ, tres pasajeros y pertenencias","textChars":60,"textLines":1,"bbox":[171,581,974,54]}
+{"kind":"textbox","id":"sh/n2d8jedo","slide":2,"name":"footer-label","text":"DOSSIER TÉCNICO · caso de cálculo redondeado a 1.600 kg","textPreview":"DOSSIER TÉCNICO · caso de cálculo redondeado a 1.600 kg","textChars":55,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/j6xo7ytw","slide":2,"name":"slide-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/xec3nk","slide":2,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/ov4pf0","slide":3,"title":"PACKAGING","textShapes":17}
+{"kind":"textbox","id":"sh/vyhs7mt0","slide":3,"name":"eyebrow","text":"PACKAGING","textPreview":"PACKAGING","textChars":9,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/wzat0rul","slide":3,"name":"slide-title","text":"Cinco personas caben sin romper la silueta","textPreview":"Cinco personas caben sin romper la silueta","textChars":42,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/xkja9wb6","slide":3,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/nuhs32t4","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,181,58,42]}
+{"kind":"shape","id":"sh/8vqtw7up","slide":3,"name":"band-rule-1","bbox":[150,198,100,3]}
+{"kind":"textbox","id":"sh/9wza5cbu","slide":3,"text":"Cabeza","textPreview":"Cabeza","textChars":6,"textLines":1,"bbox":[275,180,310,42]}
+{"kind":"textbox","id":"sh/ypobqxc7","slide":3,"text":"Piloto oculto; visión directa frontal y lateral.","textPreview":"Piloto oculto; visión directa frontal y lateral.","textChars":48,"textLines":1,"bbox":[610,180,570,64]}
+{"kind":"textbox","id":"sh/zqxsz2ts","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,301,58,42]}
+{"kind":"shape","id":"sh/ri98j2xk","slide":3,"name":"band-rule-2","bbox":[150,318,100,3]}
+{"kind":"textbox","id":"sh/6h07ahwz","slide":3,"text":"Centro","textPreview":"Centro","textChars":6,"textLines":1,"bbox":[275,300,310,42]}
+{"kind":"textbox","id":"sh/tkrqlcfq","slide":3,"text":"DJ semi-sentado; sub e inversor bajos.","textPreview":"DJ semi-sentado; sub e inversor bajos.","textChars":38,"textLines":1,"bbox":[610,300,570,64]}
+{"kind":"textbox","id":"sh/sjipc7e5","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,421,58,42]}
+{"kind":"shape","id":"sh/fm98nmxw","slide":3,"name":"band-rule-3","bbox":[150,438,100,3]}
+{"kind":"textbox","id":"sh/el07ehwb","slide":3,"text":"Cuerpo","textPreview":"Cuerpo","textChars":6,"textLines":1,"bbox":[275,420,310,42]}
+{"kind":"textbox","id":"sh/1obqpwfm","slide":3,"text":"Tres pasajeros; acceso ≥900 mm; egreso ≥750 mm.","textPreview":"Tres pasajeros; acceso ≥900 mm; egreso ≥750 mm.","textChars":47,"textLines":1,"bbox":[610,420,570,64]}
+{"kind":"textbox","id":"sh/gn2pgre1","slide":3,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,541,58,42]}
+{"kind":"shape","id":"sh/vqpobixc","slide":3,"name":"band-rule-4","bbox":[150,558,100,3]}
+{"kind":"textbox","id":"sh/apg72dwr","slide":3,"text":"Piel","textPreview":"Piel","textChars":4,"textLines":1,"bbox":[275,540,310,42]}
+{"kind":"textbox","id":"sh/yl4balgf","slide":3,"text":"Escamas livianas, abiertas y desmontables.","textPreview":"Escamas livianas, abiertas y desmontables.","textChars":42,"textLines":1,"bbox":[610,540,570,64]}
+{"kind":"textbox","id":"sh/zmxsjqh0","slide":3,"text":"3,85–3,95 m × 1,90–1,95 m × ≤2,40 m","textPreview":"3,85–3,95 m × 1,90–1,95 m × ≤2,40 m","textChars":35,"textLines":1,"bbox":[615,610,540,30]}
+{"kind":"textbox","id":"sh/076tcvyl","slide":3,"name":"footer-label","text":"DOSSIER TÉCNICO · visual conceptual, no plano","textPreview":"DOSSIER TÉCNICO · visual conceptual, no plano","textChars":45,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/l8fal0z6","slide":3,"name":"slide-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"image","id":"im/zetk3ulw","slide":3,"name":"","geometry":"roundRect","alt":"Tatú Sonoro con piloto, DJ y pasajeros integrados.","prompt":"Project-owned ImageGen concept visual; see source-notes.txt","bbox":[560,155,650,440]}
+{"kind":"notes","id":"nt/ov4pf0","slide":3,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/visuals/01_tatu_sonoro.png\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/eroat2","slide":4,"title":"MASA","textShapes":24}
+{"kind":"textbox","id":"sh/lsne1o3m","slide":4,"name":"eyebrow","text":"MASA","textPreview":"MASA","textChars":4,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/y5cv6t4v","slide":4,"name":"slide-title","text":"El donor debe certificar 1,7 t de GVWR","textPreview":"El donor debe certificar 1,7 t de GVWR","textChars":38,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/jqlwzylg","slide":4,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"shape","id":"sh/8vexc3md","slide":4,"name":"mass-0","bbox":[80,240,376.76,105]}
+{"kind":"textbox","id":"sh/twne583i","slide":4,"text":"550 kg","textPreview":"550 kg","textChars":6,"textLines":1,"bbox":[84,272,368.76,32]}
+{"kind":"shape","id":"sh/6twfat47","slide":4,"name":"mass-1","bbox":[456.76,240,92.48,105]}
+{"kind":"textbox","id":"sh/7u5w3yls","slide":4,"text":"135 kg","textPreview":"135 kg","textChars":6,"textLines":1,"bbox":[460.76,272,84.48,32]}
+{"kind":"shape","id":"sh/gzyxgnm9","slide":4,"name":"mass-2","bbox":[549.24,240,116.45,105]}
+{"kind":"textbox","id":"sh/h07e983u","slide":4,"text":"170 kg","textPreview":"170 kg","textChars":6,"textLines":1,"bbox":[553.24,272,108.45,32]}
+{"kind":"shape","id":"sh/psv6tsfe","slide":4,"name":"mass-3","bbox":[665.69,240,58.23,105]}
+{"kind":"shape","id":"sh/4rm50nyt","slide":4,"name":"mass-4","bbox":[723.91,240,109.6,105]}
+{"kind":"textbox","id":"sh/3qdorix8","slide":4,"text":"160 kg","textPreview":"160 kg","textChars":6,"textLines":1,"bbox":[727.91,272,101.6,32]}
+{"kind":"shape","id":"sh/2p4nydgn","slide":4,"name":"mass-5","bbox":[833.52,240,23.98,105]}
+{"kind":"shape","id":"sh/dwf6xsfa","slide":4,"name":"mass-6","bbox":[857.49,240,342.51,105]}
+{"kind":"textbox","id":"sh/cvm54nep","slide":4,"text":"500 kg","textPreview":"500 kg","textChars":6,"textLines":1,"bbox":[861.49,272,334.51,32]}
+{"kind":"shape","id":"sh/rudov2x4","slide":4,"name":"mass-key-0","bbox":[85,414,18,18]}
+{"kind":"textbox","id":"sh/qt4n2xwz","slide":4,"text":"Rolling","textPreview":"Rolling","textChars":7,"textLines":1,"bbox":[115,410,130,28]}
+{"kind":"textbox","id":"sh/t0bml8f6","slide":4,"text":"550 kg","textPreview":"550 kg","textChars":6,"textLines":1,"bbox":[240,410,82,28]}
+{"kind":"shape","id":"sh/sz25s3yl","slide":4,"name":"mass-key-1","bbox":[370,414,18,18]}
+{"kind":"textbox","id":"sh/kj65836h","slide":4,"text":"Batería","textPreview":"Batería","textChars":7,"textLines":1,"bbox":[400,410,130,28]}
+{"kind":"textbox","id":"sh/lkf618n2","slide":4,"text":"135 kg","textPreview":"135 kg","textChars":6,"textLines":1,"bbox":[525,410,82,28]}
+{"kind":"shape","id":"sh/yh4n6tob","slide":4,"name":"mass-key-2","bbox":[655,414,18,18]}
+{"kind":"textbox","id":"sh/zixozy5w","slide":4,"text":"Estructura","textPreview":"Estructura","textChars":10,"textLines":1,"bbox":[685,410,130,28]}
+{"kind":"textbox","id":"sh/8765cn6d","slide":4,"text":"170 kg","textPreview":"170 kg","textChars":6,"textLines":1,"bbox":[810,410,82,28]}
+{"kind":"shape","id":"sh/t8f658ny","slide":4,"name":"mass-key-3","bbox":[940,414,18,18]}
+{"kind":"textbox","id":"sh/65onadon","slide":4,"text":"Arte","textPreview":"Arte","textChars":4,"textLines":1,"bbox":[970,410,130,28]}
+{"kind":"textbox","id":"sh/76xo3i5s","slide":4,"text":"85 kg","textPreview":"85 kg","textChars":5,"textLines":1,"bbox":[1095,410,82,28]}
+{"kind":"shape","id":"sh/gbqpgn6p","slide":4,"name":"mass-key-4","bbox":[85,504,18,18]}
+{"kind":"textbox","id":"sh/hcz69sna","slide":4,"text":"Audio / DJ","textPreview":"Audio / DJ","textChars":10,"textLines":1,"bbox":[115,500,130,28]}
+{"kind":"textbox","id":"sh/ril0vqto","slide":4,"text":"160 kg","textPreview":"160 kg","textChars":6,"textLines":1,"bbox":[240,500,82,28]}
+{"kind":"shape","id":"sh/qhczmlc3","slide":4,"name":"mass-key-5","bbox":[370,504,18,18]}
+{"kind":"textbox","id":"sh/dk3ixgbe","slide":4,"text":"Luces","textPreview":"Luces","textChars":5,"textLines":1,"bbox":[400,500,130,28]}
+{"kind":"textbox","id":"sh/cjuhovut","slide":4,"text":"35 kg","textPreview":"35 kg","textChars":5,"textLines":1,"bbox":[525,500,82,28]}
+{"kind":"shape","id":"sh/3el0r6tc","slide":4,"name":"mass-key-6","bbox":[655,504,18,18]}
+{"kind":"textbox","id":"sh/2dszi1cr","slide":4,"text":"Carga útil","textPreview":"Carga útil","textChars":10,"textLines":1,"bbox":[685,500,130,28]}
+{"kind":"textbox","id":"sh/pg3itgbi","slide":4,"text":"500 kg","textPreview":"500 kg","textChars":6,"textLines":1,"bbox":[810,500,82,28]}
+{"kind":"shape","id":"sh/4fuhkbux","slide":4,"name":"mass-gate","bbox":[80,590,1120,54]}
+{"kind":"textbox","id":"sh/na503atg","slide":4,"text":"Gate: tara ≤1.200 kg · masa operativa ≤1.700 kg · CG cargado ≤0,75 m","textPreview":"Gate: tara ≤1.200 kg · masa operativa ≤1.700 kg · CG cargado ≤0,75 m","textChars":68,"textLines":1,"bbox":[110,604,1060,28]}
+{"kind":"textbox","id":"sh/m9wzu5cb","slide":4,"name":"footer-label","text":"DOSSIER TÉCNICO · masa preliminar","textPreview":"DOSSIER TÉCNICO · masa preliminar","textChars":33,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/axc3yp8f","slide":4,"name":"slide-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/eroat2","slide":4,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/0r8tn8","slide":5,"title":"TRACCIÓN","textShapes":7}
+{"kind":"textbox","id":"sh/exg3qhov","slide":5,"name":"eyebrow","text":"TRACCIÓN","textPreview":"TRACCIÓN","textChars":8,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/107mlw76","slide":5,"name":"slide-title","text":"12 kW cubren barro y pendiente","textPreview":"12 kW cubren barro y pendiente","textChars":30,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/gzylsr61","slide":5,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/6tw3mhoj","slide":5,"text":"4WD","textPreview":"4WD","textChars":3,"textLines":1,"bbox":[930,210,220,70]}
+{"kind":"textbox","id":"sh/tw7mhc7a","slide":5,"text":"no es opcional","textPreview":"no es opcional","textChars":14,"textLines":1,"bbox":[935,285,245,34]}
+{"kind":"textbox","id":"sh/svelo76p","slide":5,"text":"Con µ = 0,25, el límite ideal 4WD apenas alcanza el peor caso. En 2WD queda ~5,8% de pendiente residual sobre húmedo.","textPreview":"Con µ = 0,25, el límite ideal 4WD apenas alcanza el peor caso. En 2WD queda ~5,8% de pendiente residual sobre húmedo.","textChars":117,"textLines":1,"bbox":[930,370,265,150]}
+{"kind":"textbox","id":"sh/j654b2p8","slide":5,"name":"footer-label","text":"DOSSIER TÉCNICO · m=1.600 kg · η=0,75","textPreview":"DOSSIER TÉCNICO · m=1.600 kg · η=0,75","textChars":37,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/i5w3ixon","slide":5,"name":"slide-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"chart","id":"ch/fitovm54","slide":5,"name":"","chartType":"bar","bbox":[70,185,810,420]}
+{"kind":"notes","id":"nt/0r8tn8","slide":5,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/oxbc54","slide":6,"title":"ENERGÍA","textShapes":10}
+{"kind":"textbox","id":"sh/h8nutszq","slide":6,"name":"eyebrow","text":"ENERGÍA","textPreview":"ENERGÍA","textChars":7,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/u5cbix0z","slide":6,"name":"slide-title","text":"15 kWh dejan 1,5 kWh de margen","textPreview":"15 kWh dejan 1,5 kWh de margen","textChars":30,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/v6lcri1k","slide":6,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/5cnuxczm","slide":6,"name":"metric-10,2","text":"10,2","textPreview":"10,2","textChars":4,"textLines":1,"bbox":[915,195,250,74]}
+{"kind":"textbox","id":"sh/i9wbmx0b","slide":6,"name":"metric-label-10,2","text":"kWh utilizables con 20% SOC y 15% derating","textPreview":"kWh utilizables con 20% SOC y 15% derating","textChars":42,"textLines":1,"bbox":[915,273,250,58]}
+{"kind":"textbox","id":"sh/3a5cv2hw","slide":6,"text":"Deslastre","textPreview":"Deslastre","textChars":9,"textLines":1,"bbox":[920,410,220,32]}
+{"kind":"shape","id":"sh/szyts7id","slide":6,"name":"bullet-0","bbox":[920,465,9,9]}
+{"kind":"textbox","id":"sh/d07u1czy","slide":6,"name":"bullet-text-0","text":"Audio primero","textPreview":"Audio primero","textChars":13,"textLines":1,"bbox":[946,458,224,48]}
+{"kind":"shape","id":"sh/h0fet4rm","slide":6,"name":"bullet-1","bbox":[920,517,9,9]}
+{"kind":"textbox","id":"sh/gz6dkza1","slide":6,"name":"bullet-text-1","text":"Arte después","textPreview":"Arte después","textChars":12,"textLines":1,"bbox":[946,510,224,48]}
+{"kind":"shape","id":"sh/vyxcru9g","slide":6,"name":"bullet-2","bbox":[920,569,9,9]}
+{"kind":"textbox","id":"sh/uxovi9sv","slide":6,"name":"bullet-text-2","text":"Seguridad nunca","textPreview":"Seguridad nunca","textChars":15,"textLines":1,"bbox":[946,562,224,48]}
+{"kind":"textbox","id":"sh/5ozexori","slide":6,"name":"footer-label","text":"DOSSIER TÉCNICO · auxiliares 1,45 kW promedio","textPreview":"DOSSIER TÉCNICO · auxiliares 1,45 kW promedio","textChars":45,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/4nqdojqx","slide":6,"name":"slide-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"chart","id":"ch/cnq5ozil","slide":6,"name":"","chartType":"bar","bbox":[72,185,780,410]}
+{"kind":"notes","id":"nt/oxbc54","slide":6,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n[/Sources]"}
+{"kind":"slide","id":"sl/elquna","slide":7,"title":"ARQUITECTURA","textShapes":19}
+{"kind":"textbox","id":"sh/snqh43a5","slide":7,"name":"eyebrow","text":"ARQUITECTURA","textPreview":"ARQUITECTURA","textChars":12,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/rmhgvytk","slide":7,"name":"slide-title","text":"El audio puede fallar sin apagar seguridad","textPreview":"El audio puede fallar sin apagar seguridad","textChars":42,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/ql8f2dsz","slide":7,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"shape","id":"sh/1sjy1sbm","slide":7,"name":"conn-main","bbox":[330,325,145,4]}
+{"kind":"shape","id":"sh/0rah8na1","slide":7,"name":"conn-vertical","bbox":[470,205,4,245]}
+{"kind":"shape","id":"sh/fq1gzitg","slide":7,"name":"conn-top","bbox":[470,205,145,4]}
+{"kind":"shape","id":"sh/epsz6dsv","slide":7,"name":"conn-mid","bbox":[470,325,145,4]}
+{"kind":"shape","id":"sh/pg3y5sbi","slide":7,"name":"conn-bottom","bbox":[470,445,145,4]}
+{"kind":"shape","id":"sh/ovahcnad","slide":7,"name":"conn-top-out","bbox":[870,205,145,4]}
+{"kind":"shape","id":"sh/a1cnul0j","slide":7,"name":"conn-mid-out","bbox":[870,325,145,4]}
+{"kind":"shape","id":"sh/v2l43qh4","slide":7,"name":"conn-bottom-out","bbox":[870,445,145,4]}
+{"kind":"shape","id":"sh/w3e5wvip","slide":7,"name":"arch-node-0","bbox":[90,265,240,130]}
+{"kind":"shape","id":"sh/x4nm50za","slide":7,"name":"arch-accent-0","bbox":[90,265,8,130]}
+{"kind":"textbox","id":"sh/i5wny50v","slide":7,"text":"LFP 72 V · 15 kWh","textPreview":"LFP 72 V · 15 kWh","textChars":17,"textLines":1,"bbox":[114,285,200,34]}
+{"kind":"textbox","id":"sh/j6547qh0","slide":7,"text":"BMS · fusible · precharge · contactor","textPreview":"BMS · fusible · precharge · contactor","textChars":37,"textLines":1,"bbox":[114,327,200,38]}
+{"kind":"shape","id":"sh/47e50vil","slide":7,"name":"arch-node-1","bbox":[615,155,255,105]}
+{"kind":"shape","id":"sh/58nm90z6","slide":7,"name":"arch-accent-1","bbox":[615,155,8,105]}
+{"kind":"textbox","id":"sh/y9s3m10b","slide":7,"text":"Tracción 4WD","textPreview":"Tracción 4WD","textChars":12,"textLines":1,"bbox":[639,175,215,34]}
+{"kind":"textbox","id":"sh/za14v61w","slide":7,"text":"12 kW continuos","textPreview":"12 kW continuos","textChars":15,"textLines":1,"bbox":[639,217,215,38]}
+{"kind":"shape","id":"sh/3ehk32ho","slide":7,"name":"arch-node-2","bbox":[615,275,255,105]}
+{"kind":"shape","id":"sh/2d8juxg3","slide":7,"name":"arch-accent-2","bbox":[615,275,8,105]}
+{"kind":"textbox","id":"sh/pgz25czu","slide":7,"text":"Seguridad 12/24 V","textPreview":"Seguridad 12/24 V","textChars":17,"textLines":1,"bbox":[639,295,215,34]}
+{"kind":"textbox","id":"sh/ofq1w7y9","slide":7,"text":"E-stops · luces · radio","textPreview":"E-stops · luces · radio","textChars":23,"textLines":1,"bbox":[639,337,215,38]}
+{"kind":"shape","id":"sh/fqxkz2hs","slide":7,"name":"arch-node-3","bbox":[615,395,255,105]}
+{"kind":"shape","id":"sh/epojqxg7","slide":7,"name":"arch-accent-3","bbox":[615,395,8,105]}
+{"kind":"textbox","id":"sh/1cz21szi","slide":7,"text":"DJ + audio 230 V","textPreview":"DJ + audio 230 V","textChars":16,"textLines":1,"bbox":[639,415,215,34]}
+{"kind":"textbox","id":"sh/gb61snyd","slide":7,"text":"Contactor · inversor · RCD","textPreview":"Contactor · inversor · RCD","textChars":26,"textLines":1,"bbox":[639,457,215,38]}
+{"kind":"shape","id":"sh/zm1kbmxw","slide":7,"name":"arch-node-4","bbox":[1015,155,190,105]}
+{"kind":"shape","id":"sh/ylsj2hgb","slide":7,"name":"arch-accent-4","bbox":[1015,155,8,105]}
+{"kind":"textbox","id":"sh/wr2hwjet","slide":7,"text":"Motores","textPreview":"Motores","textChars":7,"textLines":1,"bbox":[1039,175,150,34]}
+{"kind":"textbox","id":"sh/hsbypofe","slide":7,"text":"Torque cero ante falla","textPreview":"Torque cero ante falla","textChars":22,"textLines":1,"bbox":[1039,217,150,38]}
+{"kind":"shape","id":"sh/upkzu9wn","slide":7,"name":"arch-node-5","bbox":[1015,275,190,105]}
+{"kind":"shape","id":"sh/vqtgnex8","slide":7,"name":"arch-accent-5","bbox":[1015,275,8,105]}
+{"kind":"textbox","id":"sh/4vmh0je5","slide":7,"text":"Función vital","textPreview":"Función vital","textChars":13,"textLines":1,"bbox":[1039,295,150,34]}
+{"kind":"textbox","id":"sh/5wvytofa","slide":7,"text":"Permanece encendida","textPreview":"Permanece encendida","textChars":19,"textLines":1,"bbox":[1039,337,150,38]}
+{"kind":"shape","id":"sh/it4zytwz","slide":7,"name":"arch-node-6","bbox":[1015,395,190,105]}
+{"kind":"shape","id":"sh/judgryxk","slide":7,"name":"arch-accent-6","bbox":[1015,395,8,105]}
+{"kind":"textbox","id":"sh/sjmh43e1","slide":7,"text":"Carga flexible","textPreview":"Carga flexible","textChars":14,"textLines":1,"bbox":[1039,415,150,34]}
+{"kind":"textbox","id":"sh/tkfyx8vm","slide":7,"text":"Mute + límite SOC","textPreview":"Mute + límite SOC","textChars":17,"textLines":1,"bbox":[1039,457,150,38]}
+{"kind":"textbox","id":"sh/dg3qx4fq","slide":7,"text":"E-stop corta tracción en ≤0,5 s; las luces y la radio continúan.","textPreview":"E-stop corta tracción en ≤0,5 s; las luces y la radio continúan.","textChars":64,"textLines":1,"bbox":[170,570,940,40]}
+{"kind":"textbox","id":"sh/sfupoze5","slide":7,"name":"footer-label","text":"DOSSIER TÉCNICO · diagrama funcional preliminar","textPreview":"DOSSIER TÉCNICO · diagrama funcional preliminar","textChars":47,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/rel8vuxk","slide":7,"name":"slide-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/elquna","slide":7,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/q61dnq","slide":8,"title":"SEGURIDAD","textShapes":18}
+{"kind":"textbox","id":"sh/natwzm10","slide":8,"name":"eyebrow","text":"SEGURIDAD","textPreview":"SEGURIDAD","textChars":9,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/ob2dsr2l","slide":8,"name":"slide-title","text":"Frenos y egresos mandan el detalle","textPreview":"Frenos y egresos mandan el detalle","textChars":34,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/9cbe1wjq","slide":8,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/adkvu1kb","slide":8,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,176,58,42]}
+{"kind":"shape","id":"sh/betw361w","slide":8,"name":"band-rule-1","bbox":[150,193,100,3]}
+{"kind":"textbox","id":"sh/wf2dwb2h","slide":8,"text":"Frenos","textPreview":"Frenos","textChars":6,"textLines":1,"bbox":[275,175,310,42]}
+{"kind":"textbox","id":"sh/x0ve5gj2","slide":8,"text":"Hidráulicos en 4 ruedas; parking mecánico; no depender de regeneración.","textPreview":"Hidráulicos en 4 ruedas; parking mecánico; no depender de regeneración.","textChars":71,"textLines":1,"bbox":[610,175,570,64]}
+{"kind":"textbox","id":"sh/y14vylkn","slide":8,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,281,58,42]}
+{"kind":"shape","id":"sh/j2dw7618","slide":8,"name":"band-rule-2","bbox":[150,298,100,3]}
+{"kind":"textbox","id":"sh/vypc7yx4","slide":8,"text":"Dirección","textPreview":"Dirección","textChars":9,"textLines":1,"bbox":[275,280,310,42]}
+{"kind":"textbox","id":"sh/uxgvetgj","slide":8,"text":"Mecánica con EPS; pérdida de señal = torque cero.","textPreview":"Mecánica con EPS; pérdida de señal = torque cero.","textChars":49,"textLines":1,"bbox":[610,280,570,64]}
+{"kind":"textbox","id":"sh/hkre98fa","slide":8,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,386,58,42]}
+{"kind":"shape","id":"sh/wjidg3yp","slide":8,"name":"band-rule-3","bbox":[150,403,100,3]}
+{"kind":"textbox","id":"sh/7upc3yxs","slide":8,"text":"Ocupantes","textPreview":"Ocupantes","textChars":9,"textLines":1,"bbox":[275,385,310,42]}
+{"kind":"textbox","id":"sh/mtgvatgn","slide":8,"text":"Todos contenidos; DJ semi-sentado; ninguna persona de pie.","textPreview":"Todos contenidos; DJ semi-sentado; ninguna persona de pie.","textChars":58,"textLines":1,"bbox":[610,385,570,64]}
+{"kind":"textbox","id":"sh/9w7u5ofy","slide":8,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,491,58,42]}
+{"kind":"shape","id":"sh/8vydc3yd","slide":8,"name":"band-rule-4","bbox":[150,508,100,3]}
+{"kind":"textbox","id":"sh/rq9wfixc","slide":8,"text":"Egresos","textPreview":"Egresos","textChars":7,"textLines":1,"bbox":[275,490,310,42]}
+{"kind":"textbox","id":"sh/qp0vmdgr","slide":8,"text":"Principal ≥900 mm; secundario ≥750 mm; salida completa ≤15 s.","textPreview":"Principal ≥900 mm; secundario ≥750 mm; salida completa ≤15 s.","textChars":61,"textLines":1,"bbox":[610,490,570,64]}
+{"kind":"textbox","id":"sh/2l4feh0z","slide":8,"text":"Objetivos SAT","textPreview":"Objetivos SAT","textChars":13,"textLines":1,"bbox":[84,610,200,30]}
+{"kind":"textbox","id":"sh/nmdg7mhk","slide":8,"text":"≤1,5 m seco · ≤2,0 m mojado · parking 20% · lateral operativa ≤8°","textPreview":"≤1,5 m seco · ≤2,0 m mojado · parking 20% · lateral operativa ≤8°","textChars":65,"textLines":1,"bbox":[295,607,875,34]}
+{"kind":"textbox","id":"sh/onmhgri5","slide":8,"name":"footer-label","text":"DOSSIER TÉCNICO · criterios de anteproyecto","textPreview":"DOSSIER TÉCNICO · criterios de anteproyecto","textChars":43,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/povy9wza","slide":8,"name":"slide-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/q61dnq","slide":8,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n- https://www.goingnowhere.org/participate/artomobiles/\n[/Sources]"}
+{"kind":"slide","id":"sl/7nikaf","slide":9,"title":"SCREENING DE PRODUCTOS","textShapes":14}
+{"kind":"textbox","id":"sh/wnydwzup","slide":9,"name":"eyebrow","text":"SCREENING DE PRODUCTOS","textPreview":"SCREENING DE PRODUCTOS","textChars":22,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/vmpc3ud4","slide":9,"name":"slide-title","text":"Los tres links todavía no son comprables","textPreview":"Los tres links todavía no son comprables","textChars":40,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/ulgvu9cj","slide":9,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/9k7u14vy","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,176,58,42]}
+{"kind":"shape","id":"sh/8jetszed","slide":9,"name":"band-rule-1","bbox":[150,193,100,3]}
+{"kind":"textbox","id":"sh/7i5czuds","slide":9,"text":"Wire-control","textPreview":"Wire-control","textChars":12,"textLines":1,"bbox":[275,175,310,42]}
+{"kind":"textbox","id":"sh/mhwbqpwn","slide":9,"text":"≈USD 530 · sin masa, GVWR, frenos ni 4WD verificable.","textPreview":"≈USD 530 · sin masa, GVWR, frenos ni 4WD verificable.","textChars":53,"textLines":1,"bbox":[610,175,570,64]}
+{"kind":"textbox","id":"sh/lgnuxkv2","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,296,58,42]}
+{"kind":"shape","id":"sh/kfetofeh","slide":9,"name":"band-rule-2","bbox":[150,313,100,3]}
+{"kind":"textbox","id":"sh/upgzup87","slide":9,"text":"Orugas","textPreview":"Orugas","textChars":6,"textLines":1,"bbox":[275,295,310,42]}
+{"kind":"textbox","id":"sh/fqpgnu9c","slide":9,"text":"Ficha crítica incompleta · mayor masa, transporte y mantenimiento.","textPreview":"Ficha crítica incompleta · mayor masa, transporte y mantenimiento.","textChars":66,"textLines":1,"bbox":[610,295,570,64]}
+{"kind":"textbox","id":"sh/gryhwzqx","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,416,58,42]}
+{"kind":"shape","id":"sh/hs7yp4ri","slide":9,"name":"band-rule-3","bbox":[150,433,100,3]}
+{"kind":"textbox","id":"sh/6lwzq5sv","slide":9,"text":"Eje 2 kW","textPreview":"Eje 2 kW","textChars":8,"textLines":1,"bbox":[275,415,310,42]}
+{"kind":"textbox","id":"sh/7m5gja9g","slide":9,"text":"2 kW insuficientes · “900 kg” no define payload de vehículo.","textPreview":"2 kW insuficientes · “900 kg” no define payload de vehículo.","textChars":60,"textLines":1,"bbox":[610,415,570,64]}
+{"kind":"shape","id":"sh/snyhsfa1","slide":9,"name":"screening-summary","bbox":[82,570,1095,60]}
+{"kind":"textbox","id":"sh/to7ylkrm","slide":9,"text":"GO sólo con GVWR ≥1,7 t + 12 kW continuos + 4 frenos + parking mecánico + UN38.3","textPreview":"GO sólo con GVWR ≥1,7 t + 12 kW continuos + 4 frenos + parking mecánico + UN38.3","textChars":80,"textLines":1,"bbox":[105,586,1050,30]}
+{"kind":"textbox","id":"sh/ihwfm5sz","slide":9,"name":"footer-label","text":"DOSSIER TÉCNICO · marketplace ≠ conformidad","textPreview":"DOSSIER TÉCNICO · marketplace ≠ conformidad","textChars":43,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/ji5gfa9k","slide":9,"name":"slide-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/7nikaf","slide":9,"text":"[Sources]\n- https://www.alibaba.com/product-detail/Four-Wheel-Unmanned-Autonomous-Wire-Control_1601605765591.html\n- https://www.alibaba.com/product-detail/OEM-Custom-Remote-Controlled-Rubber-Track_1601864041467.html\n- https://www.alibaba.com/product-detail/100CM-2000W-Shift-Differential-Rear-Axle_1601869479511.html\n- https://www.phmsa.dot.gov/lithiumbatteries\n[/Sources]"}
+{"kind":"slide","id":"sl/7vx77x","slide":10,"title":"IMPORTACIÓN + CAPEX","textShapes":13}
+{"kind":"textbox","id":"sh/jmp8jmxw","slide":10,"name":"eyebrow","text":"IMPORTACIÓN + CAPEX","textPreview":"IMPORTACIÓN + CAPEX","textChars":19,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/kny9creh","slide":10,"name":"slide-title","text":"Costo neto y caja no son lo mismo","textPreview":"Costo neto y caja no son lo mismo","textChars":33,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/5oralwf2","slide":10,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/ahgr6hwf","slide":10,"text":"USD 24,1k","textPreview":"USD 24,1k","textChars":9,"textLines":1,"bbox":[80,185,330,70]}
+{"kind":"textbox","id":"sh/vip8fmx0","slide":10,"text":"importado puesto en taller · neto","textPreview":"importado puesto en taller · neto","textChars":33,"textLines":1,"bbox":[84,260,360,48]}
+{"kind":"textbox","id":"sh/wjy987el","slide":10,"text":"+ USD 10,5k","textPreview":"+ USD 10,5k","textChars":11,"textLines":1,"bbox":[80,355,330,70]}
+{"kind":"textbox","id":"sh/xk7qhcf6","slide":10,"text":"tributos recuperables · caja","textPreview":"tributos recuperables · caja","textChars":28,"textLines":1,"bbox":[84,430,350,48]}
+{"kind":"shape","id":"sh/ed0ri1wj","slide":10,"name":"rule","bbox":[500,175,4,350]}
+{"kind":"shape","id":"sh/fe9sr6x4","slide":10,"name":"bullet-0","bbox":[555,197,9,9]}
+{"kind":"textbox","id":"sh/jahwzu14","slide":10,"name":"bullet-text-0","text":"FOB + documentación + repuestos: USD 14,8k","textPreview":"FOB + documentación + repuestos: USD 14,8k","textChars":42,"textLines":1,"bbox":[581,190,584,74]}
+{"kind":"shape","id":"sh/i98v6p0j","slide":10,"name":"bullet-1","bbox":[555,275,9,9]}
+{"kind":"textbox","id":"sh/5cze1kju","slide":10,"name":"bullet-text-1","text":"Flete/origen/seguro/DG: USD 2,8k","textPreview":"Flete/origen/seguro/DG: USD 2,8k","textChars":32,"textLines":1,"bbox":[581,268,584,74]}
+{"kind":"shape","id":"sh/kbqd8zip","slide":10,"name":"bullet-2","bbox":[555,353,9,9]}
+{"kind":"textbox","id":"sh/7e1w3u10","slide":10,"name":"bullet-text-2","text":"Derecho supuesto: 18% · estadística: 3%","textPreview":"Derecho supuesto: 18% · estadística: 3%","textChars":39,"textLines":1,"bbox":[581,346,584,74]}
+{"kind":"shape","id":"sh/6d8vap0f","slide":10,"name":"bullet-3","bbox":[555,431,9,9]}
+{"kind":"textbox","id":"sh/t0je54j6","slide":10,"name":"bullet-text-3","text":"Clasificación NCM escrita antes de la PO","textPreview":"Clasificación NCM escrita antes de la PO","textChars":40,"textLines":1,"bbox":[581,424,584,74]}
+{"kind":"shape","id":"sh/sfadczil","slide":10,"name":"cost-total","bbox":[550,535,610,70]}
+{"kind":"textbox","id":"sh/f21w7e1c","slide":10,"text":"Proyecto base: USD 65,9k netos / USD 76,5k caja","textPreview":"Proyecto base: USD 65,9k netos / USD 76,5k caja","textChars":47,"textLines":1,"bbox":[575,554,560,34]}
+{"kind":"textbox","id":"sh/u1sve90r","slide":10,"name":"footer-label","text":"DOSSIER TÉCNICO · confirmar NCM, condición fiscal y tipo de cambio","textPreview":"DOSSIER TÉCNICO · confirmar NCM, condición fiscal y tipo de cambio","textChars":66,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/q9w7mxob","slide":10,"name":"slide-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/7vx77x","slide":10,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Presupuesto_Modelo.xlsx\n- https://www.argentina.gob.ar/normativa/nacional/norma-407914\n- https://www.argentina.gob.ar/node/196822\n- https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo\n[/Sources]"}
+{"kind":"slide","id":"sl/ri2hvp","slide":11,"title":"VERIFICACIÓN","textShapes":17}
+{"kind":"textbox","id":"sh/dgre98zq","slide":11,"name":"eyebrow","text":"VERIFICACIÓN","textPreview":"VERIFICACIÓN","textChars":12,"textLines":1,"bbox":[72,35,310,24]}
+{"kind":"textbox","id":"sh/qt0vytgf","slide":11,"name":"slide-title","text":"Nadie sube antes de cerrar once ensayos","textPreview":"Nadie sube antes de cerrar once ensayos","textChars":39,"textLines":1,"bbox":[72,70,1136,58]}
+{"kind":"shape","id":"sh/re9w7yh0","slide":11,"name":"title-rule","bbox":[72,140,88,4]}
+{"kind":"textbox","id":"sh/4ridwjy9","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,166,58,42]}
+{"kind":"shape","id":"sh/psre5ozu","slide":11,"name":"band-rule-1","bbox":[150,183,100,3]}
+{"kind":"textbox","id":"sh/2pgvu9g3","slide":11,"text":"Ingreso","textPreview":"Ingreso","textChars":7,"textLines":1,"bbox":[275,165,310,42]}
+{"kind":"textbox","id":"sh/3qpw3eho","slide":11,"text":"Identidad · pesaje · documentos · aislamiento.","textPreview":"Identidad · pesaje · documentos · aislamiento.","textChars":46,"textLines":1,"bbox":[610,165,570,64]}
+{"kind":"textbox","id":"sh/gnydsjyd","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,271,58,42]}
+{"kind":"shape","id":"sh/ho7e1ozy","slide":11,"name":"band-rule-2","bbox":[150,288,100,3]}
+{"kind":"textbox","id":"sh/p8net83q","slide":11,"text":"Dinámica","textPreview":"Dinámica","textChars":8,"textLines":1,"bbox":[275,270,310,42]}
+{"kind":"textbox","id":"sh/o7udk325","slide":11,"text":"Frenado · pendiente · descenso · giro · E-stop.","textPreview":"Frenado · pendiente · descenso · giro · E-stop.","textChars":47,"textLines":1,"bbox":[610,270,570,64]}
+{"kind":"textbox","id":"sh/36lwrylk","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,376,58,42]}
+{"kind":"shape","id":"sh/25cvitkz","slide":11,"name":"band-rule-3","bbox":[150,393,100,3]}
+{"kind":"textbox","id":"sh/h43ep83u","slide":11,"text":"Arte + audio","textPreview":"Arte + audio","textChars":12,"textLines":1,"bbox":[275,375,310,42]}
+{"kind":"textbox","id":"sh/g3udg329","slide":11,"text":"Holguras · anclajes · RCD · temperatura · SPL.","textPreview":"Holguras · anclajes · RCD · temperatura · SPL.","textChars":46,"textLines":1,"bbox":[610,375,570,64]}
+{"kind":"textbox","id":"sh/filwnylo","slide":11,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,481,58,42]}
+{"kind":"shape","id":"sh/uhcvetk3","slide":11,"name":"band-rule-4","bbox":[150,498,100,3]}
+{"kind":"textbox","id":"sh/tg3elo3i","slide":11,"text":"Misión","textPreview":"Misión","textChars":6,"textLines":1,"bbox":[275,480,310,42]}
+{"kind":"textbox","id":"sh/sfadcj2x","slide":11,"text":"5 km a masa total + 25 km de durabilidad.","textPreview":"5 km a masa total + 25 km de durabilidad.","textChars":41,"textLines":1,"bbox":[610,480,570,64]}
+{"kind":"shape","id":"sh/kjexsjat","slide":11,"name":"test-gate","bbox":[82,595,1095,46]}
+{"kind":"textbox","id":"sh/lkne1obe","slide":11,"text":"PASS final: ≥20% SOC · sin fade · sin fisuras · sin resets · evacuación ≤15 s","textPreview":"PASS final: ≥20% SOC · sin fade · sin fisuras · sin resets · evacuación ≤15 s","textChars":77,"textLines":1,"bbox":[105,606,1050,26]}
+{"kind":"textbox","id":"sh/yxwvqtsn","slide":11,"name":"footer-label","text":"DOSSIER TÉCNICO · FAT proveedor + SAT local","textPreview":"DOSSIER TÉCNICO · FAT proveedor + SAT local","textChars":43,"textLines":1,"bbox":[72,681,430,18]}
+{"kind":"textbox","id":"sh/ji5wzet8","slide":11,"name":"slide-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1150,678,58,22]}
+{"kind":"notes","id":"nt/ri2hvp","slide":11,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/v4ogc5","slide":12,"title":"PRÓXIMO GATE","textShapes":11}
+{"kind":"textbox","id":"sh/q5svalcv","slide":12,"text":"PRÓXIMO GATE","textPreview":"PRÓXIMO GATE","textChars":12,"textLines":1,"bbox":[78,72,330,28]}
+{"kind":"textbox","id":"sh/d8ju5gb6","slide":12,"text":"El RFQ debe eliminar\nla incertidumbre","textPreview":"El RFQ debe eliminar | la incertidumbre","textChars":37,"textLines":2,"bbox":[78,125,680,155]}
+{"kind":"shape","id":"sh/c7adcbul","slide":12,"name":"rule","bbox":[82,320,105,6]}
+{"kind":"shape","id":"sh/321cz6t4","slide":12,"name":"bullet-0","bbox":[82,377,9,9]}
+{"kind":"textbox","id":"sh/218b61cj","slide":12,"name":"bullet-text-0","text":"Masa, GVWR y cargas por eje","textPreview":"Masa, GVWR y cargas por eje","textChars":27,"textLines":1,"bbox":[108,370,594,50]}
+{"kind":"shape","id":"sh/p4ju1gba","slide":12,"name":"bullet-1","bbox":[82,431,9,9]}
+{"kind":"textbox","id":"sh/43at8bup","slide":12,"name":"bullet-text-1","text":"Curvas de torque, corriente y temperatura","textPreview":"Curvas de torque, corriente y temperatura","textChars":41,"textLines":1,"bbox":[108,424,594,50]}
+{"kind":"shape","id":"sh/fehcvmd8","slide":12,"name":"bullet-2","bbox":[82,485,9,9]}
+{"kind":"textbox","id":"sh/ud8b21cn","slide":12,"name":"bullet-text-2","text":"Frenos 4 ruedas y parking 20%","textPreview":"Frenos 4 ruedas y parking 20%","textChars":29,"textLines":1,"bbox":[108,478,594,50]}
+{"kind":"shape","id":"sh/gb61oz21","slide":12,"name":"bullet-3","bbox":[82,539,9,9]}
+{"kind":"textbox","id":"sh/hcf2x4j6","slide":12,"name":"bullet-text-3","text":"UN38.3, esquemas, software y repuestos","textPreview":"UN38.3, esquemas, software y repuestos","textChars":38,"textLines":1,"bbox":[108,532,594,50]}
+{"kind":"shape","id":"sh/u94jmpkv","slide":12,"name":"rfq-block","bbox":[785,110,390,470]}
+{"kind":"textbox","id":"sh/fadkvu1g","slide":12,"text":"GO","textPreview":"GO","textChars":2,"textLines":1,"bbox":[850,160,260,80]}
+{"kind":"textbox","id":"sh/s7m1kz2p","slide":12,"text":"si el proveedor responde\ncada línea con evidencia","textPreview":"si el proveedor responde | cada línea con evidencia","textChars":49,"textLines":2,"bbox":[835,270,290,100]}
+{"kind":"shape","id":"sh/t8vit4ja","slide":12,"name":"rule","bbox":[870,410,220,3]}
+{"kind":"textbox","id":"sh/6l4jipkj","slide":12,"text":"NO-GO","textPreview":"NO-GO","textChars":5,"textLines":1,"bbox":[850,445,260,50]}
+{"kind":"textbox","id":"sh/76d0ru14","slide":12,"text":"ante claims sin método de ensayo","textPreview":"ante claims sin método de ensayo","textChars":32,"textLines":1,"bbox":[845,505,270,50]}
+{"kind":"textbox","id":"sh/c3q1wj2t","slide":12,"text":"Anexo A del anteproyecto: RFQ bilingüe completo","textPreview":"Anexo A del anteproyecto: RFQ bilingüe completo","textChars":47,"textLines":1,"bbox":[82,650,540,28]}
+{"kind":"notes","id":"nt/v4ogc5","slide":12,"text":"[Sources]\n- /Users/martinmarquez/projects/chakana-art-car/output/Chakana_Art_Car_Anteproyecto_Prefactibilidad.pdf\n- https://www.phmsa.dot.gov/lithiumbatteries\n[/Sources]"}
