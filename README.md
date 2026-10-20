@@ -2,6 +2,8 @@
 
 Proyecto en dos temporadas para desarrollar una instalación-fiesta con una única cara de chakana y un DJ de pie dentro del hueco central.
 
+Este anteproyecto explora Chakana como obra independiente **rumbo a Fuego Austral**. La participación en el evento y la fabricación están sujetas a confirmación. Los renders de esta carpeta pertenecen a la prefactibilidad 2026/2027; para la geometría y la comunicación vigentes consultar el [proyecto principal](docs/FUENTES_Y_CONTEXTO.md).
+
 ![Chakana estática de madera 2026](output/visuals/15_chakana_madera_estatica_2026.png)
 
 ## Decisión vigente
