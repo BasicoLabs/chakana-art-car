@@ -1,6 +1,6 @@
-# Contexto de Chakana para nuevos chats
+# Concepto Chakana Art Car
 
-Este proyecto local agrupa el anteproyecto y funciona como punto de entrada a todas las fuentes de Chakana. Antes de responder sobre diseño, fabricación, presupuesto, web o donaciones, leer [docs/FUENTES_Y_CONTEXTO.md](docs/FUENTES_Y_CONTEXTO.md) y comprobar el estado actual de la fuente correspondiente.
+Este repositorio conserva el anteproyecto Chakana Art Car 2026/2027. El proyecto principal de Chakana está en `/Users/martinmarquez/Documents/Codex/Chakana`; leer su `AGENTS.md` y `FUENTES.md` para la web y los originales vigentes. Para trabajar específicamente en este concepto, leer [docs/FUENTES_Y_CONTEXTO.md](docs/FUENTES_Y_CONTEXTO.md).
 
 - La web y sus revisiones vigentes se desarrollan en `/Users/martinmarquez/Documents/Codex/Chakana/Repositorio` (`martinmarquez/Chakana`). No asumir que este repositorio de anteproyecto refleja los cambios recientes de la web.
 - Los archivos originales de fabricación, modelos, fotos, presupuestos y revisiones están bajo `/Users/martinmarquez/Documents/Codex/Chakana`.

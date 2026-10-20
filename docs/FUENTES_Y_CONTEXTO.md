@@ -1,6 +1,6 @@
 # Fuentes y contexto de Chakana
 
-Actualizado: 20 de octubre de 2026. Este archivo es un mapa de acceso, no una copia de los materiales. Para empezar un nuevo chat dentro del proyecto **Chakana Art Car**, leer este índice y abrir la fuente original que corresponda. Los estados de publicación y campaña pueden cambiar en la sesión de trabajo activa.
+Actualizado: 20 de octubre de 2026. Este archivo es un mapa de acceso del concepto **Chakana Art Car** dentro del proyecto principal **Chakana** (`/Users/martinmarquez/Documents/Codex/Chakana`). La web, los modelos y la campaña vigentes se consultan primero en el índice `FUENTES.md` de ese proyecto. Los estados de publicación y campaña pueden cambiar en la sesión de trabajo activa.
 
 ## Fuente vigente para la web
 
